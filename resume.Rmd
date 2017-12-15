@@ -5,15 +5,13 @@ output: pdf_document
 
 ## Contact information
 
-14814 Granada Ct, Leawood, KS 66224
-
-913-814-9942
-
-mail@pmean.com
+* 14814 Granada Ct, Leawood, KS 66224
+* 913-814-9942
+* mail@pmean.com
 
 ## Personal
 
-Born June 22, 1956. Married with one child.
+* Born June 22, 1956. Married with one child.
 
 ## Education
 
@@ -43,7 +41,7 @@ Born June 22, 1956. Married with one child.
 
 * Frontiers: University of Kansas Clinical and Translational Science Institute (NIH UL1 TR002366, Principal Investigator: Richard Barohn). The Heartland Institute for Clinical and Translational Research has been a catalyst for bringing together translational science investigators and stakeholders across the KC region, and beyond. The vision of Frontiers is to contribute to and lead national efforts to transform the way we do clinical and translational research (CTR), and to ensure research is more rapidly and more efficiently translated to the point of care so that it may contribute to improved health. I am funded at 10% effort starting in September 2017.
 
-Completed research grants
+## Completed research grants
 
 * Greater Plains Collaborative (PCORI HSRP20162063, Principal Investigator: Russ Waitman). The Greater Plains Collaborative (GPC) is a new network of 10 leading medical centers in 7 states committed to a shared vision of improving healthcare delivery through ongoing learning, adoption of evidence-based practices, and active research dissemination. Role: Consultant. I was funded at 25% effort from February 2016 to August 2017 when my efforts were switched to the Frontiers grant described above.
 
@@ -498,5 +496,186 @@ Note I am not listing local presentations or presentations where I am not the fi
 * Simon SD. "Quick Estimates of Slope Based on the Cox and Stuart Test for Trend," a contributed 15 minute presentation for the Joint Statistical Meetings, August 1985, Las Vegas NV.
 
 * Simon SD, Lesage JP. "The Impact of Centering and Scaling on Numerical Accuracy of Regression Algorithms," a contributed presentation for the Applied Simulation and Modeling conference, June 1985, Montreal Canada and published in the conference proceedings.
+
+## Computer experience
+* Bibliographic software: EndNotes, Knowledge Finder, Zotero.
+* Database software: Microsoft Access, Microsoft SQL Server, Oracle, PC-File, SQLite.
+* Graphics software: ACDSee, Metafile Companion, Photoshop Elements, SigmaPlot.
+* Internet systems: File Transfer Protocol, Gopher, Telnet, USENET, WordPress, World Wide Web.
+* Mathematical software: MathCAD, Mathematica, MathType.
+* Presentation software: Powerpoint.
+* Programming languages: BASIC, C, FORTRAN, Pascal, Perl, PL/1, Visual BASIC.
+* Spreadsheets: Excel, Lotus 1-2-3, SuperCalc.
+* Statistical software: AMOS, BMDP, IMSL, JMP, LogXact, MINITAB, nQuery Advisor, OpenBUGS, R, RATS, S-Plus, S-Plus/Wavelets, SAS, Stan, SPIDA, SPSS, STATA, Statgraphics, StatXact, Systat, WinBUGS.
+* Utility software: DBMS/COPY, Norton Anti-virus, TextPad, WinZip.
+* Word processing: Word, Word Perfect.
+* Other experience: I have supervised the implementation of a Novell Local Area Network and Microsoft SQL Server, a client-server database, both for a division of 100+ employees. I have authored web pages using Adobe Acrobat, Adobe Dreamweaver, Camtasia Studio, and Microsoft Front Page. I have used and taught IBM mainframe Job Control Language, including tape and disk I/O.
+
+## Professional conferences attended
+
+* Conference on Statistical Practice, February 2015, New Orleans, LA.
+* Joint Statistical Meetings, August 2014, Boston, MA.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2014, Kansas City, MO.
+* Joint Statistical Meetings, August 2013, Montreal, Canada.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2013, Kansas City, MO.
+* KC Bioresearch Summit, November 2012, Overland Park, KS.
+* Joint Statistical Meetings, August 2012, San Diego, CA.
+* Frontiers/KCALSI Research Symposium, May 2012, Kansas City, MO.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2012, Kansas City, MO.
+* Conference on Statistical Practice, February 2012, Orlando, FL.
+* Fall Technical Conference, October 2011, Kansas City, MO.
+* Joint Statistical Meetings, August 2011, Miami Beach, FL.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2011, Kansas City, MO.
+* Joint Statistical Meetings, August 2010, Vancouver, Canada.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2010, Kansas City, MO.
+* Joint Statistical Meetings, August 2009, Washington, DC.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2009, Kansas City, MO.
+* Bayesian Biostatistics Conference, January 2009, Houston, TX.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2008, Kansas City, MO.
+* Joint Statistical Meetings, August 2007, Salt Lake City, UT.
+* Joint Statistical Meetings, August 2006, Seattle, WA.
+* Eighteenth Annual Applied Statistics in Agriculture, April 2006, Manhattan, KS.
+* Fifth Annual Kansas City Life Sciences Research Day, April 2006, Kansas City, MO.
+* Joint Statistical Meetings, August 2005, Minneapolis, MN.
+* Fourth Annual Kansas City Life Sciences Research Day, April 2005, Overland Park, KS.
+* Joint Statistical Meetings, August 2004, Toronto, CA.
+* Bridging the Gap Between Eastern & Western Medicine, January 2004, Kansas City, MO.
+* Joint Statistics Meetings, August 2003, San Francisco, CA.
+* ENAR Biometric Society Meeting, March 2003, Tampa FL.
+* Second Annual Kansas City Life Sciences Research Day, March 2003, Kansas City, MO.
+* A Higher Standard: The Ethics of Clinical Research, September 2002, Kansas City, MO.
+* Seventh Annual Clinical Research Symposium: Focus on Pediatric Pain, September 2002, Kansas City, MO.
+* Joint Statistical Meetings, August 2002, New York NY.
+* Joint Statistical Meetings, August 2001, Atlanta GA.
+* Joint Statistical Meetings, August 2000, Indianapolis IN.
+* Fourth Annual Clinical Research Symposium, June 2000, Kansas City MO.
+* NIH Regional Seminar on Program Funding and Grants Administration, June 2000, Kansas City MO
+* Conference on Applied Statistics in Agriculture, May 2000, Manhattan KS
+* The 7th National Research Utilization Conference: Evidence-Based Interventions for Symptom Management, April 2000, Iowa City IA
+* Toastmasters District 22 Spring Conference, April 2000, Kansas City MO
+* Joint Statistical Meetings, August 1999, Baltimore MD
+* NIH Regional Seminar on Grants Administration, July 1999, Madison WI
+* Fourth Annual Clinical Research Symposium, June 1999, Kansas City, MO
+* Research Involving Infants, Children, and Adolescents: Issues and Ethics for the 21st Century, April 1999, Kansas City MO
+* The Elements of Clinical Research: An Overview, October 1998, Kansas City, MO
+* Joint Statistical Meetings, August 1998, Dallas TX
+* Global Statistical Challenges and Strategies in the Pharmaceutical Industry, March 1998, Hilton Head SC
+* Joint Statistical Meetings, August 1997, Anaheim CA
+* Fourth International Applied Statistics in Industry conference, June 1997, Kansas City MO
+* Second Annual Clinical Research Symposium, June 1998, Kansas City, MO
+* Eastern North America Region Biometric Society Meeting, March 1997, Memphis TN
+* SAS Users Group International Conference, March 1997, San Diego CA
+* Joint Statistical Meetings, August 1996, Chicago IL
+* Midwest SAS Users Group Meeting, October 1995, Cleveland OH
+* Ohio Statistics Conference, November 1994, Oxford OH
+* Total Quality Management in Government Conference, September 1994, Cincinnati OH
+* Joint Statistical Meetings, August 1994, Toronto, Ontario
+* Midwest SAS Users Group Conference, August 1993, Indianapolis IN
+* Deming Users Group Conference, August 1993, Cincinnati OH
+* Statistical Methods for Multi-Source Data, January 1993, Atlanta GA
+* Midwest SAS Users Group Conference, October 1992, Kansas City MO
+* Joint Statistical Meetings, August 1992, Atlanta GA
+* U.S. Public Health Service Professional Meeting, April 1992, Cincinnati OH
+* Eastern North America Region Biometric Society Meeting, March 1992, Cincinnati OH
+* Statistics and Quality Conference, October 1991, Lexington OH
+* State Based Occupational Health and Safety Activities, September 1991, Cincinnati OH
+* Joint Statistical Meetings, August 1990, Anaheim CA
+* SAS Users Group International Conference, April 1990, Nashville TN
+* Total Quality Management in Government Conference, March 1990, Cincinnati OH
+* SAS Users Group International Conference, April 1989, San Francisco CA
+* Winter Meeting of the American Statistical Association, January 1988, San Antonio TX
+* MINITAB Users Group meeting, January 1987, Orlando FL
+* Interface between Computer Science and Statistics, March 1985, Lexington KY
+
+## Training classes attended
+
+* Network Analysis in Cross-sectional Data Using R (E Fried), 2 contact hours, December 2017, Webinar.
+* Databases in the tidyverse (B Baumer, N Horton), 1.5 contact hours, November 2017, Webinar.
+* Use of Historical Data in Designed Experiments (B Neuenschwander, H Schmidli), 1.5 contact hours, April 2014, Webinar.
+* DSMBs DMCs (S Evans), 1.5 contact hours, September 2013, Webinar.
+* Practical Software Engineering for Statisticians (M Stokely), 4 contact hours, August 2013, Montreal Canada.
+* Design and Analysis of Non-inferiority Trials (B Wiens), 4 contact hours, August 2013, Montreal Canada.
+* Advancing Faculty Development and Scholarly Careers in Quality Improvement, 1.5 contact hours, April 2013, Webinar.
+* Impact of Phase 2 Dose-finding Study Design on Phase 3 Probability of Success and Net Present Value, March 2012, Webinar.
+* Bayesian Methods for Non-inferiority Tests and Sample Size Determinations, November 2011, Webinar.
+* Applied Survival Analysis (S May), 6 contact hours, October 2008.
+* NLM Gateway and ClincalTrials.gov, 6 contact hours, April 2008.
+* PubMed training, 6 contact hours, April 2008.
+* Quantitative Trait Locus (QTL) Mapping (R Doerge), 6 contact hours, April 2007.
+* Grants 101: Essential Information, 24 contact hours, August 2006.
+* Writing Winning Grants Workshop (K Gary and D Morrison), 4 contact hours, April 2006.
+* Bayesian Clinical Trials (S Berry), 8 contact hours, April 2006.
+* Analysis of Gene Expression Data (T Speed, B Bolstad, YHJ Yang, J Wettenhall), 16 contact hours, August 2005.
+* Exploration and Analysis of DNA Microarray Data (J Cabrera), four week web based class with approximately 5-15 hours per week of work, October 2005.
+* Advanced Excel for the Power User, 8 contact hours, June 2005.
+* Excel: Beyond Mere Basics, 8 contact hours, June 2005.
+* Bootstrap Methods and Permutation Tests for Doing and Teaching Statistics (T Hesterberg), 4 contact hours, August 2004.
+* Successful Data Mining in Practice (R De Veaux), 16 contact hours, August 2003.
+* Linear Mixed Models in SPSS, 2 contact hours, August 2003.
+* Statistical Methods and Software for the Analysis of DNA Microarray Experiments (S Dudoit, R Irizarry), 4 contact hours, March 2003.
+* Introduction to Molecular Biology and Bioinformatics Studies for Analysts (E Lazaridis), 4 contact hours, August 2002.
+* Statistical Methods for Microarray Studies (E Lazaridis), 4 contact hours, August 2002.
+* How to Practice Evidence Based Medicine, 16 contact hours, September 2001.
+* Model Based Clustering (A Raftery, C Fraley), 16 contact hours, August 2001.
+* Research Principles III (Corporate Compliance and Genetic Testing), 2 contact hours, May 2001.
+* Responsible Conduct of Research: What Every Faculty Researcher Needs to Know: Experimental Design, Data Selection and Data Management, 1 contact hour, November 2000.
+* Research Principles: Part I, 4 contact hours, September 2000.
+* Conversational Database: A Traveler's Guide to Database Theory and Common Query Languages (R Grasser), 4 contact hours, August 2000.
+* Wavelets in the Real World: Concepts and Applications (R Ogden), 4 contact hours, August 2000.
+* Statistical Searches for Disease Genes (B Weir), 8 contact hours, August 1999
+* An Introduction to Generalized Linear Mixed Models (C McCulloch), 16 contact hours, August 1999
+* The Basics of Web Site Design, 8 contact hours, November 1999
+* Step-by-Step: Static HTML to a High Performance Web Farm, 3 contact hours, June 1999
+* Writing Winning Grants Workshop (D Morrison), 5 contact hours, April 1999
+* Sample Size and Power Determination in Medical Research and Clinical Trials (JD Elashoff), 3.5 contact hours, March 1998
+* Microsoft Outlook 97, 8 contact hours, November 1997
+* Early Stopping of Clinical Trials (G Lan), 4 contact hours, August 1997
+* Analysis of Functional Data (B Silverman and JO Ramsey), 16 contact hours, August 1997
+* Advanced Access 7.0, 8 contact hours, June 1997
+* Intermediate Access 7.0, 8 contact hours, April 1997
+* Access 7.0: Tables, 4 contact hours, March 1997
+* Bayes and Empirical Bayes Methods for Biostatistical Data Analysis (B Carlin and T Louis), 8 contact hours, March 1997
+* Great Explanations: Listening Skills, 2 contact hours, January 1997
+* Sampling-Based Methods for Bayesian and Likelihood Inference (M Tanner and I Hoeschele), 16 contact hours, August 1996
+* Learning to Fly with Mixed Models, 8 contact hours, February 1996
+* Building Leadership Skills, 16 contact hours, September 1995
+* Nonlinear Mixed Effects Models in S-Plus (D Bates), 16 contact hours, August 1995
+* Government Performance and Results Act of 1993. Managing for Results: A Strategy for Successful Change in Government, 16 contact hours, August 1995
+* Advanced Project Officer Training, 20 contact hours, April 1995
+* Statistical Models in S-Plus, 24 contact hours, March 1995
+* Win-Win Communications, 16 contact hours, November 1994
+* Managing Diversity, 8 contact hours, October 1994
+* Classification and Position Management, 16 contact hours, July 1994
+* HIV/AIDS Sensitivity, 4 contact hours, July 1994
+* Employee Relations, 16 contact hours, April 1994
+* Labor Relations, 8 contact hours, April 1994
+* Government Credit Card Rules and Regulations, 8 contact hours, April 1994
+* Continuous Quality Improvement (R Hogg), 8 contact hours, March 1994
+* Process Action Team Leader, 36 contact hours, February 1994
+* Basic Project Officers Training, 16 contact hours, January 1994
+* Principles of Total Quality Management, 20 contact hours, November 1993
+* S-plus Basic and Advanced Training, 40 contact hours, September 1993
+* Sexual Harassment Awareness, 8 contact hours, May 1993
+* The Analysis of Longitudinal Data (K Liang and S Zeger), 16 contact hours, January 1993
+* Effective Scientific Visualization (E Tufte), 16 contact hours, December 1992
+* Introduction to OS/2 2.0, 4 contact hours, November 1992
+* Introduction to Microsoft Windows, 4 contact hours, October 1992
+* Categorical Data Analysis (J Fleiss), 20 contact hours, September 1992
+* Reproductive and Developmental Epidemiology: Emerging Approaches, 8 contact hours, September 1992
+* Multivariable Modeling of Epidemiologic Data, 32 contact hours, October 1991
+* Commissioned Corps Orientation, 12 contact hours, September 1990
+* Categorical Data Analysis (A Agresti and C Chuang-Stein), 8 contact hours, August 1990
+* Generalized Additive Models (T Hastie and R Tibshirani), 8 contact hours, August 1990
+* Principles and Practices of Supervision: Part II, 20 contact hours, April 1990
+* Analysis of Binary Data (D Cox and E Snell), 16 contact hours, August 1989
+* Practical Biological Modeling (D Allen and J Matis), 8 contact hours, March 1989
+* Principles and Practices of Supervision: Part I, 36 contact hours, May 1988
+* Risk Control in Clinical Trials for Efficacy (A Johnson), 8 contact hours, January 1988
+* Analysis of Complex Surveys (J Landis and J Lepkowski), 40 contact hours, August 1987
+* Assembly Language Programming (Audit), 48 contact hours, September 1986
+* Introduction to the Bootstrap (B Efron and R Tibshirani), 8 contact hours, August 1985
+* Time Series Tools for Business and Economic, 8 contact hours, August 1985
+* Statistical Quality Control (Audit), 48 contact hours, September 1983
+
 
 Note: This resume was created using RMarkdown and was printed on `r format(Sys.Date(), "%A, %B %d, %Y")`. With RMarkdown, you lose some of the fancy formatting available in other programs, but the layout is clean and simple and (most importantly) easy to maintain. You can find the most current version at http://github.com/pmean/resume.
