@@ -110,4 +110,18 @@ In January 2016, I was offered the opportunity to work research grant funded by 
 
 My assignment, derived through discussions with the head of Enterprise Analytics, Russ Waitman, was to develop a develop a phenotype of breast cancer from information in the electronic health record (EHR) and validate it against information in the breast cancer registry. 
 
-Such a phenotype would have great value in identifying patients for prospective clinical trials. The advances in high throughput genome sequencing and the linkage of that information with the EHR allows for exploration of novel precision medicine options. Developing a phenotype from the EHR is fraught with peril because information in the EHR on basic issues like diagnoses and treatments is often coded inconsistently. 
+Such a phenotype would have great value in identifying patients for prospective clinical trials. The advances in high throughput genome sequencing and the linkage of that information with the EHR allows for exploration of novel precision medicine options. Developing a phenotype from the EHR is fraught with peril because information in the EHR on basic issues like diagnoses and treatments is often coded inconsistently. Having a link between the EHR and a tumor registry provides an external validation of the accuracy the EHR phenotype.
+
+The EHR at KUMC (and the other sites in the Greater Health Collaborative) is stored in an Oracle database and is accessible through an i2b2 system that is very easy to use. My work, however, required access to the full database as well as some of the metadata. With the help of Dr. Waitman and the SQL expert sitting across from me, Dan Connolly, I was able to pull information directly from Oracle.
+
+I used a big data model, LASSO regression, to predict whether a patient was in the breast cancer tumor registry and set up sparse matrices as input to better manage the size of the data sets. The breast cancer cases were compared against three separate control groups and in spite of the massive size of the independent variable matrix (more than 45,000 columns), this model ran in under ten minutes. The resulting sensitivity and specificity were very high, putting to rest concerns that the EHR data might be too incomplete or inconsistent to produce an accurate phenotype.
+
+The LASSO regression model could easily be run for other tumor types, and just as quickly validated.
+
+I have presented these results at a local research conference and plan to submit a peer-reviewed publication soon. An interesting side effect of this research is also worth mentioning. I had a passing knowledge of SQL prior to my work with Dr. Waitman and Mr. Connally, but I had to quickly learn and apply SQL programming to get the data into R and the LASSO regression model. SQL is a fairly easy language to learn, but many of the students that I encounter in the Bioinformatics program at UMKC do not have even a cursory knowledge of SQL. So I am partnering with a SQL expert at UMKC to develop a new class, Introduction to SQL, that will cover some of the basic skills that an Informatitian would need to query data stored in a relational database. This class will parallel to a large extent classes that I have already helped develop and teach: Introduction to R, Introduction to SAS, and Introduction to SPSS.
+
+My work on the PCORI grant has been transferred a different grant and I plan to work with partners at Truman Health Center and Children's Mercy Hospitals to develop more research utilization of EHR at their locations. I also have been asked to help develop an analytics platform simplifies data mining of the EHR through a standardized library of functions interfacing SQL databases and R. This library would pull appropriate meta data descriptors as well, expanding the types of analyses available to the end user.
+
+## Evidence-Based Medicine
+
+## Helping others with research
