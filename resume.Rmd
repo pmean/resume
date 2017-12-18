@@ -22,15 +22,15 @@ output: pdf_document
 
 ## Experience
 
-* Full Professor, part-time, Department of Biomedical and Health Informatics, University of Missouri-Kansas City (UMKC), February 2009 to present. In this position, I started the Research and Statistical Consult Service. With a second consultant, we helped with the planning of research studies, analyzed the data coming from these studies, and co-authored research presentations and publications. We helped researchers obtain internal and external grant funding. I left work with the Research and Statistical Consult Service in January 2016 because of the demands of a major research grant, but the service is still being run by another faculty member. In addition to this work, I helped with the introduction of a new Master's degree in Bioinformatics and a graduate certificate in clinical research. I helped develop three new courses (Introduction to R, Introduction to SAS, and Introduction to SPSS) including the preparation of materials for an online version of these classes. I have provided guest lectures for other classes (Responsible Conduct of Research, Clinical Research Methodology).
+* Full Professor, part-time, Department of Biomedical and Health Informatics, University of Missouri-Kansas City (UMKC), February 2009 to present. In this position, I started the Research and Statistical Consult Service. With a second consultant, we helped with the planning of research studies, analyzed the data coming from these studies, and co-authored research presentations and publications. We helped researchers obtain internal and external grant funding. I left work with the Research and Statistical Consult Service in January 2016 because of the demands of a major research grant, but the service is still being run by another faculty member. In addition to this work, I helped with the introduction of a new Master's degree in Bioinformatics and a graduate certificate in clinical research. I helped develop three new courses (Introduction to R, Introduction to SAS, and Introduction to SPSS) including the preparation of materials for an online version of these classes. I have provided guest lectures for other classes (Responsible Conduct of Research, Clinical Trials).
 
-* Independent Statistical Consultant, P.Mean Consulting, July 2008 to present. In this position, I have provided consulting on research design and data analysis to clients. I have specialized in helping doctoral students who are struggling with the requirements of their dissertations. I also have provided webinar classes for Novartis and The Analysis Factor. When I first started my consulting business, I could not find much information about the practical aspects of statistical consulting (e.g., contracts, insurance, and billing), so I developed resources on my website and blog and gave presentations and short courses on setting up a consulting practice.
+* Independent Statistical Consultant, P.Mean Consulting, July 2008 to present. In this position, I have provided consulting on research design and data analysis to clients. I have specialized in helping doctoral students who are struggling with the requirements of their dissertations. I also have provided webinar classes for The Analysis Factor, Novartis, and the Medical Library Association. When I first started my consulting business, I could not find much information about the practical aspects of statistical consulting (e.g., contracts, insurance, and billing), so I developed resources on my website and blog and gave presentations and short courses on setting up a consulting practice.
 
 * Research Biostatistician, Office of Medical Research, The Children's Mercy Hospital and Clinics (CMH), May 1996 to October 2008, with a joint appointment as Associate Professor (promoted to Full Professor, September 2007) in the School of Medicine at the University of Missouri-Kansas City. In this position, I provided statistical consulting to the doctors, nurses, and other health care professionals at CMH. Before I arrived, there was no statistical support for researchers, so I had to develop a consulting system from scratch. This included a series of training classes that helped researchers to become self-sufficient for some of their less complex data analyses. I wrote some informational handouts for clients and placed these on the web. It started slowly, but averaging one or two handouts per week, I ended up with a website in 2008 that had over 1300 pages. This website is regularly cited in both paper and electronic resources for research methodology and pops up high on the list of search engines when technical terms in research are entered. I helped many researchers get funding (both internal and external) through research grants. I worked closely with the Institutional Review Board to ensure that protocols submitted to them addressed concerns about scientific merit and protection of confidentiality. I also provided training in the ethical conduct of research. I also worked closely with the effort to implement Evidence Based Health Care at CMH and participated in numerous journal clubs. In 2006, I published a book on the statistical issues associated with critical appraisal of research evidence. I was the sole statistician at CMH from 1996 to 2007 and oversaw a massive expansion in the quantity and quality of research conducted there.
 
 * Chief, Statistics Activity, Division of Biomedical and Behavioral Science, National Institute for Occupational Safety and Health, December 1987 to May 1996. I supervised a staff of two research statisticians and two computer specialists. I oversaw the administration of a Local Area Network for more than 100 users, and the maintenance of administrative and research data on a client-server database. I reviewed and approved all project protocols in the Division prior to the start of any experimental work. I also worked directly with project officers in designing experiments, analyzing data, and writing results for publication. I was also very active in the NIOSH effort to adopt Total Quality Management (TQM), serving as team leader, facilitator, or member of a variety of quality teams. I also provided many informal training seminars in TQM for NIOSH employees. 
 
-* Research Statistician, Division of Biomedical and Behavioral Science, National Institute for Occupational Safety and Health, July 1987 to November 1987. The woman who hired me for this position left shortly after I arrived and I was quickly promoted to her position.
+* Research Statistician, Division of Biomedical and Behavioral Science, National Institute for Occupational Safety and Health, July 1987 to November 1987. The woman who hired me for this position left shortly after I arrived and I was quickly promoted to her position (see above).
 
 * Assistant Professor, Department of Applied Statistics and Operations Research, Bowling Green State University, September 1981 to May 1987. Duties included teaching and research. I taught Business Statistics, Experimental Design, Linear Models, Multivariate Statistics, Nonparametric Statistics, Regression, and Statistical Packages. I published articles and made presentations in the areas of numerical accuracy, robust statistics, and computer applications. During the Summer of 1986, I also served as the Assistant Director of the Statistical Consulting Center. 
 
@@ -44,15 +44,13 @@ output: pdf_document
 
 ## Completed research grants
 
-* Greater Plains Collaborative (PCORI HSRP20162063, Principal Investigator: Russ Waitman). The Greater Plains Collaborative (GPC) is a new network of 10 leading medical centers in 7 states committed to a shared vision of improving healthcare delivery through ongoing learning, adoption of evidence-based practices, and active research dissemination. Role: Consultant. I was funded at 25% effort from February 2016 to August 2017 when my efforts were switched to the Frontiers grant described above.
+* Greater Plains Collaborative (PCORI HSRP20162063, Principal Investigator: Lemuel Waitman). The Greater Plains Collaborative (GPC) is a new network of 10 leading medical centers in 7 states committed to a shared vision of improving healthcare delivery through ongoing learning, adoption of evidence-based practices, and active research dissemination. Role: Consultant. I was funded at 25% effort from February 2016 to August 2017 when my efforts were switched to the Frontiers grant described above.
 
-* Increasing HIV Screening in African American Churches. (NIH R01 MH099981, Principal Investigator: Janette Berkley-Patton). The primary aim of the proposed study is to conduct a clustered, randomized community trial to fully test our culturally/religiously-tailored church-based HIV screening intervention against a standard information intervention on HIV screening rates at 6 and 12 months with adult AA church members and community members who use church outreach services. Role: Co-investigator. I was funded at 5% effort from July 2013 through January 2016, but had to discontinue work on this grant because of other work commitments.
+* Increasing HIV Screening in African American Churches. (NIH R01 MH099981, Principal Investigator: Jannette Berkley-Patton). The primary aim of the proposed study is to conduct a clustered, randomized community trial to fully test our culturally/religiously-tailored church-based HIV screening intervention against a standard information intervention on HIV screening rates at 6 and 12 months with adult AA church members and community members who use church outreach services. Role: Co-investigator. I was funded at 5% effort from July 2013 through January 2016, but had to discontinue work on this grant because of other work commitments.
 
 * Role of cytochrome P450 in alcohol-mediated effects on antiretrovirals and HIV-1. (NIH R01 K2304028, Principal Investigator: Santosh Kumar). Our central hypothesis is that in monocytes/macrophages alcohol-mediated oxidative stress causes enhanced HIV-1 replication via pathways mediated through CYP2E1, and alcohol-mediated decrease in the efficacy of PIs and increase in PIs-mediated toxicity concurrent with increase in the rates of HIV-1 replication is directly mediated through CYP3A4. Role: Co-investigator. I was funded at 8% effort in the first year with increasing support in future years, but support was lost in July 2014 when the PI moved to a different institution.
 
 * HIV Testing in African American Churches. (NIH K01 MH082640, Principal Investigator: Janette Berkley-Patton). This Mentored Research Career Award provides support for Dr. Jannette Berkley-Patton to obtain the requisite training and expertise to develop and test a church-based intervention to increase HIV testing among African Americans. Role: Co-investigator. I was funded at 5% effort from April 2012 through July 2013.
-
-* Bayesian prediction for interim review of studies with slow patient accrual. (Intramural grant, Kansas University Cancer Center). Patient recruitment for medical research is a huge challenge, especially for cancer trials. Slow patient accrual leads to delays in the completion of the study, sample size shortfalls, or both. This can disrupt the risk/benefit ratio of a study, and raise serious ethical problems for Institutional Review Boards (IRBs) and Data Safety and Monitoring Boards (DSMBs). We wish to fundamentally change the way clinical trials are planned and monitored by providing a rigorous framework for accrual based on Bayesian principles. Accrual estimates depend largely on how much experience clinicians have had in running previous trials, and how similar the current trial is to those previous trials. The Bayesian method of eliciting prior distributions offers a major innovation to accrual because it provides a proven method for quantifying subjective experiences and opinions about accrual. Bayesian methods offer an additional innovation because they allow the combination of these subjective experiences and opinions with actual accrual data during the conduct of the trial to produce a continuously updated probability that a trial will finish within the proposed time frame with the required number of patients. (This grant was awarded in May 2013, but funds supporting salary costs for Dr. Simon were removed prior to approval.)
 
 * Ensuring Medication Safety in Pediatric Emergencies. (FDA U01 FD004249, Principal Investigator, Susan Rahman). In no other patient population is there more calculation and manipulation of drug doses than in children. The need to individualize pediatric doses introduces the potential for errors along the entire process of drug delivery from prescribing and transcribing the dose to diluting, compounding, dispensing and administering the final formulation. Consequently, dosing errors represent the most common type of medication error in children. Error rates in children are 3x more common than the corresponding rates in adults and in hospital settings the rate of medication errors on pediatric wards is second only to those in intensive care units. Despite the abundance of weight estimation strategies, there remains a critical need for methods that are accurate across a wide range of pediatric ages, weights, lengths, nationalities and body compositions. Consequently, we undertook the development and validation of a weight estimation method that incorporates surrogates for both stature and body habitus, requires no subjective assessment and performs robustly independently of age and length over a broad range of weights. Role: Consultant (September 2011 through September 2012).
 
@@ -78,13 +76,13 @@ output: pdf_document
 
 * Co-author of a research paper (Miller-Hansen DR, Nelson PB, Widen JE, Simon SD. Am J Audiology 2003;24(1);16-18) which received the Editor's Award for the American Journal of Audiology for the most outstanding publication in the calendar year 2003.
 
-* Selected as the winner of the Bluejacket Toastmasters international speech contest for my speech "I married a dog nut," March 2003.
+* Selected as the winner of the Bluejacket Toastmasters speech contest for my speech "I married a dog nut," March 2003.
 
 * Selected as the winner of the Bluejacket Toastmasters humorous speech contest for my speech "The one thing that can gross out a doctor," September 2001. This speech also won at the Area K-1 contest, and the Division K contest.
 
 * Co-author of a research paper (Moorman WJ, Skaggs SR, Clark JC, Turner TW, Sharpnack DD, Murrell JA, Simon SD, Chapin RE, Schrader SM [1998]. Male reproductive effects of lead, including species extrapolation for the rabbit model. Reproductive Toxicology 12(3): 333-46.) which was the winner of the Alice Hamilton Award for 1999 for the best research paper in occupational safety and health (Biological Sciences Category).
 
-* My presentation "Medical Statistics Case Studies on the Web" was voted as the best presentation in the area of Teaching Statistics in the Health Sciences at the Joint Statistical Meetings in Anaheim CA, August 1997.
+* My presentation, "Medical Statistics Case Studies on the Web," was voted as the best presentation in the area of Teaching Statistics in the Health Sciences at the Joint Statistical Meetings in Anaheim CA, August 1997.
 
 * Selected as the winner of the Cincinnati NIOSH Toastmasters humorous speech contest for my speech "Puns and Poetry," September 1994, and as winner of the Cincinnati NIOSH Toastmasters Table Topics (extemporaneous speech), also September 1994 for my response to the question "What famous person would you like to have lunch with?" I went on to represent the Cincinnati NIOSH Toastmasters at the October 1994 Area 32 humorous speech contest, where (using the same humorous speech) I again won the competition.
 
@@ -100,11 +98,13 @@ output: pdf_document
 
 ## Professional organizations and special committee assignments
 
-* President of the Kansas City R Users Group (December 2014 to present). This group meets monthly to share information and experiences with the R programming language and statistical analysis package. When I took over, the group was threatening to fold because meetings had as few as three or four people attending. I converted the group's publicity from a proprietary email notification system to meetup.com, changed the format of the meetings to alternate between beginner and advanced sessions, found an alternate meeting site with better seating and audiovisual equipment, and recruited new speakers for the meetings. The group has increased its membership and now has 10 to 20 attendees at most meetings.
+* President of the Kansas City R Users Group (December 2014 to present). This group meets monthly to share information and experiences with the R programming language. When I took over, the group was threatening to fold because meetings had as few as three or four people attending. I converted the group's publicity from a proprietary email notification system to meetup.com, changed the format of the meetings to alternate between beginner and advanced sessions, found an alternate meeting site with better seating and audiovisual equipment, and recruited new speakers for the meetings. The group has increased its membership and now has 10 to 20 attendees at most meetings.
+
+* Co-organizer (with M Gerkovich) of Secondary Data Analysis working group (January 2014 through June 2015). This group meets monthly and members take turns sharing information about interesting data sources they have used. In the fall semester of 2015, this group was folded in with the graduate student seminar.
 
 * Member of the Complementary and Alternative Medicine (CAM) Statisticians committee within the American Statistical Association (ASA) (August 2012 to present). This group meets annually at the Joint Statistical Meetings and conducts additional business by email and telephone. The members share experiences and concerns about statistical issues associated with CAM research studies, learns about research developments at the National Center for Complementary and Integrative Health, and provides outreach to CAM practitioners who wish to study their therapies in a rigorous and controlled fashion.
 
-* Member of the ASA Traveling Course committee (August 2004 to August 2006). The Traveling Course committee solicits speakers who are willing to offer a one day short course on an important topic in Statistics. This course is available for three local ASA chapters. The committee reviews applications to host the course and selects three chapters to host the course. The committee then arranges all of the travel and other logistics along with the appropriate local ASA chapter officers.
+* Member of the ASA Traveling Course committee (August 2004 to August 2006). The Traveling Course committee solicits speakers who are willing to offer a one day short course on an important topic in Statistics. This course is available for three local ASA chapters. The committee reviews applicationsand selects three chapters to host the course. The committee then arranges all of the travel and other logistics along with the appropriate local ASA chapter officers.
 
 * Member of the Kansas University Medical Center Data Safety and Monitoring Executive Committee (January 2002 to June 2008) and Vice-Chair (January 2005 to June 2008). The Data Safety and Monitoring Board provides on-going review of research projects at the Kansas University Medical Center where there is a conflict of interest for the primary investigator or where early stopping of a trial would be considered for early evidence of efficacy or early evidence of an unacceptable rate of adverse events.
 
@@ -118,7 +118,7 @@ output: pdf_document
 
 * Council of Chapters Representative (July 2001 to June 2004), President (July 1998 to June 2000), and Vice President (July 1997 to June 1998) for the Kansas/Western Missouri chapter of the ASA. The Kansas-Western Missouri chapter provides statistics seminars and other presentations from local and national experts for locations in Western Missouri and in Kansas. As Council of Chapters representative, I served as a liaison between the local ASA chapter and the national office. As president, I provided support and guidance to all the other officers of the chapter and represented the club to the parent organization (the American Statistical Association). As vice-president, I recruited speakers and organized the time and location of statistics presentations.
 
-* Founder and president of the steering committee for the Childrens Mercy Hospital Internet Users Group, April 1997 to June 1998. The Internet Users Group provides a forum for individuals to share their expertise on Internet topics. The steering committee identifies speakers and topics for meetings and prepares publicity. As founder, I scheduled and ran an organizational meeting for the group, developed the structure and goals of this group, and recruited volunteers for the steering committee. As a president of the steering committee, I arrange meetings of this group and provide overall guidance.
+* Founder and president of the Childrens Mercy Hospital Internet Users Group, April 1997 to June 1998. The Internet Users Group provides a forum for individuals to share their expertise on Internet topics. The steering committee identifies speakers and topics for meetings and prepares publicity. As founder, I scheduled and ran an organizational meeting for the group, developed the structure and goals of this group, and recruited volunteers for the steering committee. As a president of the steering committee, I arrange meetings of this group and provide overall guidance.
 
 * Member of the DBBS Quality Council, July 1995 to May 1996. The DBBS Quality Council identifies quality problems within DBBS, recruits teams to address these problems, and provides continual oversight and feedback to these teams.
 
@@ -126,7 +126,7 @@ output: pdf_document
 
 * Member of the Quality Management Advisory Board for the College of Mount St. Joseph, May 1995 to May 1996. The Quality Management Advisory Board provides advice to the College of Mount St. Joseph regarding its newly developed undergraduate degree program in Quality Management. The board consists of representatives of the Cincinnati business and government communities as well as students and faculty from the Quality Management program itself.
 
-* Co-chair of the Statistics, Data Analysis and Modeling Section of the 1995 Midwest SAS Users Group conference in Cleveland OH (with DK Wild). The co-chair provides review of all papers submitted to this section of the conference. I also contacted presenters to verify audiovisual needs and met with presenters prior to the start of the meeting to answer questions. In addition, I performed any necessary troubleshooting before or during the start of each session at the conference, and ensured that evaluation forms were completed and delivered to the conference organizer at the end of each session.
+* Co-chair of the Statistics, Data Analysis and Modeling Section of the 1995 Midwest SAS Users Group conference in Cleveland OH (with D Wild). The co-chair provides review of all papers submitted to this section of the conference. I also contacted presenters to verify audiovisual needs and met with presenters prior to the start of the meeting to answer questions. In addition, I performed any necessary troubleshooting before or during the start of each session at the conference, and ensured that evaluation forms were completed and delivered to the conference organizer at the end of each session.
 
 * Cincinnati NIOSH Representative to the Cincinnati Federal Executive Board Reinvention Subcommittee, October 1994 to September 1995. The reinvention subcommittee provides Cincinnati Federal Government agencies with a professional source of expertise on the issues addressed in the National Performance Review, and presents various seminars that address handling change and coping with streamlining initiatives.
 
@@ -144,7 +144,7 @@ output: pdf_document
 
 * Founder and Co-chair of NIOSH Statistical Discussion Group, July 1989 to May 1996. The Statistics Discussion Group provides a forum for informal discussion of professional issues relevant to Statisticians in the five Cincinnati Divisions of NIOSH and the two Morgantown Divisions. As founder of the Statistical Discussion Group, I scheduled and ran an organizational meeting for the group, developed the structure and goals of this group, and recruited a co-chair for the group. As Co-chair, I was responsible for organizing meetings and for publicity for Statisticians in two Divisions at the Taft Laboratories in Cincinnati.
 
-* Organizer and chair of the executive board for the DBBS Microcomputer Users Group, September 1988 to March 1989, and member of the executive board, April 1989 to June 1990. The DBBS Microcomputer Users Group coordinated microcomputer purchases and provided educational services to the staff of the Division of Biomedical and Behavioral Science. As founder of the Internet Users Group, I scheduled and ran an organizational meeting for the group, developed the structure and goals of this group, and recruited volunteers for the steering committee. I was responsible for coordinating publicity and monthly meetings for this group. I also served as the liaison to the Hamilton Users Group, a similar group for two other divisions in NIOSH.
+* Organizer and chair of the executive board for the DBBS Microcomputer Users Group, September 1988 to March 1989, and member of the executive board, April 1989 to June 1990. The DBBS Microcomputer Users Group coordinated microcomputer purchases and provided educational services to the staff of the Division of Biomedical and Behavioral Science. As founder of this group, I scheduled and ran an organizational meeting, developed the structure and goals of this group, and recruited volunteers for the steering committee. I was responsible for coordinating publicity and monthly meetings. I also served as the liaison to the Hamilton Users Group, a similar group for two other divisions in NIOSH.
 
 * Charter President of the Bowling Green IBM PC Users Group, September 1985 to May 1987. I was responsible for recruiting speakers for their bi-monthly meetings, for publicizing these meetings, and for maintaining their membership list. I also supervised the public domain librarian and the SYSOPs of the group's Bulletin Board System.
 
@@ -152,17 +152,19 @@ output: pdf_document
 
 ## Other professional activities
 
+* Provided feedback on presentations at the Greater Kansas City Society of Health System Pharmacy Resident Research Day, September 2014, September 2015, and September 2017.
+
 * Refereed research papers for American Journal of Obstetrics and Gynecology in 2011, BMJ in 2006 and 2007, the Annals of Allergy, Asthma & Immunology in 2003 and 2004, BMC Medical Research Methodology in 2002, the Journal of Andrology, in 1999 and 2000, for the American Statistician, in 1985 and 1992, and for the International Journal of Science and Engineering, in 1983.
 
 * Served on an advisory committee to develop a Health Outcomes Research Masters Degree program for the University of Missouri, Kansas City, October 1999 to February 2000.
 
-* Served as a co-instructor for NIOSH Training Course 553, "Statistical Analysis for Industrial Hygiene Sampling and Decision Making" which was offered on an annual basis from 1988 through 1993. I delivered approximately 6 to 8 hours of lectures in a 36 hour class, covering topics such as Normal and Lognormal Distributions; Distributions of Means and Errors in Exposure Measurements; Confidence and Tolerance Limits; and Selection of Workers and Times to be Sampled.
+* Served as a co-instructor for NIOSH Training Course 553, "Statistical Analysis for Industrial Hygiene Sampling and Decision Making," which was offered on an annual basis from 1988 through 1993. I delivered approximately 6 to 8 hours of lectures in a 36 hour class, covering topics such as Normal and Lognormal Distributions; Distributions of Means and Errors in Exposure Measurements; Confidence and Tolerance Limits; and Selection of Workers and Times to be Sampled.
 
 * Chaired the planning committee for the April 2004 short course by C Davis on Statistical Methods for the Analysis of Repeated Measurements. Served on the planning committees for: the February 1996 short course by R. Helms on Mixed Models, the March 1993 short course by R. Hogg on Total Quality Management; the April 1992 U.S. Public Health Service Professional meeting; the March 1992 ENAR Biometrics meeting; and the November 1990 Ohio Statistics Conference.
 
-* Served as discussion leader for a round table discussion "SAS/Graph on the PC: User Experiences" held at the 15th annual SAS Users Group International conference, April 1990, in Nashville, TN.
+* Served as discussion leader for a round table discussion "SAS/Graph on the PC: User Experiences," held at the SAS Users Group International conference, April 1990, in Nashville, TN.
 
-* Assisted in the preparation of a poster "Statistics at NIOSH" which was on display at the Hamilton County Public Library (main branch) during November 1989 to commemorate the 150th anniversary of the American Statistical Association.
+* Assisted in the preparation of a poster "Statistics at NIOSH," which was on display at the Hamilton County Public Library (main branch) during November 1989 to commemorate the 150th anniversary of the American Statistical Association.
 
 * Participant in a workshop: "Methods for semen studies in humans," held in Washington DC, October 1989. I led discussion in three areas: "Assessing variability between and within individuals"; "Design considerations for parameters measured on individual cells"; and "Recoding continuous semen quality data as a binary response: the application of tolerance intervals to morphometry data." I also served as rapporteur for the statistical methods section that included these three discussions.
 
@@ -170,9 +172,9 @@ output: pdf_document
 
 * Programmed, documented, and tested in 1986 a series of benchmarks written in BASIC and Pascal (NUMACC.BAS and NUMACC.PAS) to evaluate numerical accuracy.
 
-Volunteer activities
+## Volunteer activities
 
-* Head of the St. Paul's Movie Group, December 2004 to present, a group that offers a social outlet for members of St. Pauls United Methodist Church in Lenexa, KS. The Movie Group meets on the second Friday of each month to see a first run movie and afterwards visits a nearby restaurant to discuss the movie. As head of the group, I maintain a mailing list of members, select an appropriate movie, announce the choice, and collect RSVPs. The Movie Group also hosts an Academy Awards party every year.
+* Head of the Second Friday Movie Group, December 2004 to present, a group that offers a social outlet formerly just for members of St. Pauls United Methodist Church in Lenexa, but now open to anyone. We meet on the second Friday of each month to see a first run movie and afterwards visit a nearby restaurant to discuss the movie. As head of the group, I maintain a mailing list of members, select an appropriate movie, announce the choice, and collect RSVPs. The Movie Group also hosts an Academy Awards party every year.
 
 * Performer with the Back Porch Cloggers, December 1999 to May 2006, a group that performed Appalachian Clogging. We would regularly entertain at various local retirement homes and nursing facilities.
 
@@ -408,15 +410,17 @@ The definitive list of publications is available at https://www.ncbi.nlm.nih.gov
 
 Note I am not listing local presentations or presentations where I am not the first author. These are both too numerous to track accurately.
 
-* Simon SD. "Good Computing Practices for Researchers" a 90 minute webinar presented for The Analysis Factor, November 2017.
+* Simon SD. "Good Computing Practices for Researchers," a 90 minute webinar presented for The Analysis Factor, November 2017.
 
-* Simon SD. "LASSO Regression" a 90 minute webinar presented for The Analysis Factor, November 2016.
+* Simon SD. "Simulating clinical trials," an invited 20 minute presentation for the Applied Stochastic Modeling and Data Analysis conference, London, England, June 2017.
 
-* Simon SD. "Cox Regression" a 90 minute webinar presented for The Analysis Factor, September 2016.
+* Simon SD. "LASSO Regression," a 90 minute webinar presented for The Analysis Factor, November 2016.
 
-* Simon SD. "Introduction to Kaplan-Meier Curves" a 90 minute webinar presented for The Analysis Factor, April 2016.
+* Simon SD. "Cox Regression," a 90 minute webinar presented for The Analysis Factor, September 2016.
 
-* Simon SD. "A Gentle Introduction to Bayesian Data Analysis" a 90 minute webinar presented for The Analysis Factor, June 2015.
+* Simon SD. "Introduction to Kaplan-Meier Curves," a 90 minute webinar presented for The Analysis Factor, April 2016.
+
+* Simon SD. "A Gentle Introduction to Bayesian Data Analysis," a 90 minute webinar presented for The Analysis Factor, June 2015.
     
 * Simon SD. "The Hedging Hyperprior," a 30 minute presentation for the regional Frontiers in Biostatistical Methods Conference, Kansas City MO, April 2015.
     
@@ -424,21 +428,23 @@ Note I am not listing local presentations or presentations where I am not the fi
 
 * Simon SD, Sanders S. "Statistics for Medical Librarians," an invited three hour short course for the Medical Librarians Association national meeting, Chicago IL, May 2014.
 
-* Simon SD, "Selecting an Appropriate Sample Size" and "Conducting a Pilot Study" part of a three hour short course, Writing a CAM Grant, for the International Research Conference on Complementary Medicine, Miami FL, May 2014.
+* Simon SD, "Selecting an Appropriate Sample Size" and "Conducting a Pilot Study," part of a three hour short course, Writing a CAM Grant, for the International Research Conference on Complementary Medicine, Miami FL, May 2014.
 
 * Simon SD. "What is a P-Value?" an invited one hour short course for the Midwest Society of Pediatric Research, October 2013, Minneapolis MN.
 
+* Simon SD. "Data sources for a proposed course on secondary data analysis," an invited 20 minute presentation for the Joint Statistical Meetings, Montreal, Canada.
+
 * Simon SD, Sanders S. "Statistics for Medical Librarians," an invited three hour short course for the Medical Librarians Association national meeting, Seattle WA, May 2012.
     
-* Simon SD, "Selecting an Appropriate Sample Size" and "Characteristics of a Good Statistical Consultant" part of a three hour short course, Writing a CAM Grant, for the International Research Conference on Complementary Medicine, Portland OR, May 2012.
+* Simon SD, "Selecting an Appropriate Sample Size" and "Characteristics of a Good Statistical Consultant," part of a three hour short course, Writing a CAM Grant, for the International Research Conference on Complementary Medicine, Portland OR, May 2012.
     
 * Simon SD. "Promoting Your Consulting Career," an invited two hour short course for the Conference on Statistical Practice, Orlando FL, February 2012.
     
-* Simon SD. "How Independent Consulting is Different" part of a panel discussion, Statistical Consulting - Working Collaboratively Across Disciplines, for the Conference on Statistical Practice, Orlando FL, February 2012.
+* Simon SD. "How Independent Consulting is Different," part of a panel discussion, Statistical Consulting - Working Collaboratively Across Disciplines, for the Conference on Statistical Practice, Orlando FL, February 2012.
 
 * Simon SD, Sanders S. "Statistics for Medical Librarians," an invited three hour short course for the Southeast Region of Medical Librarians Association annual meeting, Augusta GA, May 2012.
 
-* Simon SD. "How Independent Consulting is Different" part of a panel discussion, Successful Statistical Consulting: The Practicalities, for the Joint Statistics Meeting, Miami Beach FL, August 2011.
+* Simon SD. "How Independent Consulting is Different," part of a panel discussion, Successful Statistical Consulting: The Practicalities, for the Joint Statistics Meeting, Miami Beach FL, August 2011.
     
 * Simon SD. "Using Social Media to Promote Your Consulting Career," a lunchtime roundtable discussion for the Joint Statistics Meeting, Miami Beach FL, August 2011.
 
@@ -458,7 +464,7 @@ Note I am not listing local presentations or presentations where I am not the fi
     
 * Simon SD. "Use of Diagnostic Tests for Making Clinical Decisions," an invited 30 minute oral presentation for the Annual Scientific Meeting of the American College of Allergy, Asthma & Immunology, November 2007, Dallas TX.
     
-* Simon SD. "Open-Access Journals and Their Impact on Research and the Practice of Medicine" a one hour presentation for Grand Rounds, The Children's Mercy Hospital, October 2007, Kansas City, MO.
+* Simon SD. "Open-Access Journals and Their Impact on Research and the Practice of Medicine," a one hour presentation for Grand Rounds, The Children's Mercy Hospital, October 2007, Kansas City, MO.
     
 * Simon SD. "Statistical Evidence: Who Was Left Out," an invited 1.5 hour short course for the Midwest Society for Pediatric Research, October 2007, Indianapolis, IN.
     
@@ -478,7 +484,7 @@ Note I am not listing local presentations or presentations where I am not the fi
 
 * Simon SD. "Four Tips for Developing an Educational Web Site," a contributed poster presentation for the Joint Statistical Meetings, August 1998, Dallas TX.
 
-* Simon SD. "Medical Statistics Case Studies on the Web, " a contributed 15 minute oral presentation for the Joint Statistical Meetings, August 1997, Anaheim CA.
+* Simon SD. "Medical Statistics Case Studies on the Web," a contributed 15 minute oral presentation for the Joint Statistical Meetings, August 1997, Anaheim CA.
 
 * Simon SD. "Winning Ways of Laboratory Data Presentation: Analyzing and Presenting Your Laboratory Data," Course Co-director and Instructor for an 8 hour Andrology workshop. As an instructor, I presented two separate talks and supervised several computer exercises. American Society for Andrology, April 1996, Minneapolis, MN.
    
@@ -490,7 +496,7 @@ Note I am not listing local presentations or presentations where I am not the fi
 
 * Simon SD, Lesage JP. "Studying Numerical Accuracy as a Controlled Experiment," a contributed presentation for the Conference on the Interface Between Computer Science and Statistics, March 1987, Philadelphia PA and published in the conference proceedings.
 
-* Simon SD, Quinn LM. "Using Some Turbo Pascal Programs to Simulate Random Sampling in the Classroom," a contributed presentation for the Winter Conference of the American Statistical Association, January 1987, Orlando FL. There is a very similar talk by the same authors, "Simulating Random Sampling," a contributed presentation for the Thirteenth Annual Mathematics and Statistics conference, September 1985, Oxford OH.
+* Simon SD, Quinn LM. "Using Some Turbo Pascal Programs to Simulate Random Sampling in the Classroom," a contributed presentation for the Winter Conference of the American Statistical Association, January 1987, Orlando FL. There is a very similar talk by the same authors, "Simulating Random Sampling," a contributed presentation for the Mathematics and Statistics conference, September 1985, Oxford OH.
 
 * Simon SD. "The Median Star: an Alternative to the Tukey Resistant Line," a contributed 15 minute presentation for the Joint Statistical Meetings, August 1986, Chicago IL and published in the Proceedings of the Statistical Computing Section.
 
@@ -514,6 +520,12 @@ Note I am not listing local presentations or presentations where I am not the fi
 
 ## Professional conferences attended
 
+* Applied Stochastic Models and Data Analysis conference, June 2017, London, England.
+* Midwest Bioinformatics Conference, April 2017, Kansas City, MO.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2017, Kansas City, MO.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2016, Kansas City, MO.
+* Midwest Bioinformatics Conference, October 2015, Kansas City, MO.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2015, Kansas City, MO.
 * Conference on Statistical Practice, February 2015, New Orleans, LA.
 * Joint Statistical Meetings, August 2014, Boston, MA.
 * Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2014, Kansas City, MO.
@@ -535,35 +547,35 @@ Note I am not listing local presentations or presentations where I am not the fi
 * Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2008, Kansas City, MO.
 * Joint Statistical Meetings, August 2007, Salt Lake City, UT.
 * Joint Statistical Meetings, August 2006, Seattle, WA.
-* Eighteenth Annual Applied Statistics in Agriculture, April 2006, Manhattan, KS.
-* Fifth Annual Kansas City Life Sciences Research Day, April 2006, Kansas City, MO.
+* Applied Statistics in Agriculture, April 2006, Manhattan, KS.
+* Kansas City Life Sciences Research Day, April 2006, Kansas City, MO.
 * Joint Statistical Meetings, August 2005, Minneapolis, MN.
-* Fourth Annual Kansas City Life Sciences Research Day, April 2005, Overland Park, KS.
+* Kansas City Life Sciences Research Day, April 2005, Overland Park, KS.
 * Joint Statistical Meetings, August 2004, Toronto, CA.
 * Bridging the Gap Between Eastern & Western Medicine, January 2004, Kansas City, MO.
 * Joint Statistics Meetings, August 2003, San Francisco, CA.
 * ENAR Biometric Society Meeting, March 2003, Tampa FL.
-* Second Annual Kansas City Life Sciences Research Day, March 2003, Kansas City, MO.
+* Kansas City Life Sciences Research Day, March 2003, Kansas City, MO.
 * A Higher Standard: The Ethics of Clinical Research, September 2002, Kansas City, MO.
-* Seventh Annual Clinical Research Symposium: Focus on Pediatric Pain, September 2002, Kansas City, MO.
+* Clinical Research Symposium: Focus on Pediatric Pain, September 2002, Kansas City, MO.
 * Joint Statistical Meetings, August 2002, New York NY.
 * Joint Statistical Meetings, August 2001, Atlanta GA.
 * Joint Statistical Meetings, August 2000, Indianapolis IN.
-* Fourth Annual Clinical Research Symposium, June 2000, Kansas City MO.
+* Clinical Research Symposium, June 2000, Kansas City MO.
 * NIH Regional Seminar on Program Funding and Grants Administration, June 2000, Kansas City MO
 * Conference on Applied Statistics in Agriculture, May 2000, Manhattan KS
 * The 7th National Research Utilization Conference: Evidence-Based Interventions for Symptom Management, April 2000, Iowa City IA
 * Toastmasters District 22 Spring Conference, April 2000, Kansas City MO
 * Joint Statistical Meetings, August 1999, Baltimore MD
 * NIH Regional Seminar on Grants Administration, July 1999, Madison WI
-* Fourth Annual Clinical Research Symposium, June 1999, Kansas City, MO
+* Clinical Research Symposium, June 1999, Kansas City, MO
 * Research Involving Infants, Children, and Adolescents: Issues and Ethics for the 21st Century, April 1999, Kansas City MO
 * The Elements of Clinical Research: An Overview, October 1998, Kansas City, MO
 * Joint Statistical Meetings, August 1998, Dallas TX
 * Global Statistical Challenges and Strategies in the Pharmaceutical Industry, March 1998, Hilton Head SC
 * Joint Statistical Meetings, August 1997, Anaheim CA
 * Fourth International Applied Statistics in Industry conference, June 1997, Kansas City MO
-* Second Annual Clinical Research Symposium, June 1998, Kansas City, MO
+* Clinical Research Symposium, June 1998, Kansas City, MO
 * Eastern North America Region Biometric Society Meeting, March 1997, Memphis TN
 * SAS Users Group International Conference, March 1997, San Diego CA
 * Joint Statistical Meetings, August 1996, Chicago IL
@@ -592,6 +604,8 @@ Note I am not listing local presentations or presentations where I am not the fi
 
 * Network Analysis in Cross-sectional Data Using R (E Fried), 2 contact hours, December 2017, Webinar.
 * Databases in the tidyverse (B Baumer, N Horton), 1.5 contact hours, November 2017, Webinar.
+* Clinical Trials, 4 contact hours, October 2015.
+* Nonparametric Bayesian Data Analysis, 8 contact hours, August 2014, Boston, MA.
 * Use of Historical Data in Designed Experiments (B Neuenschwander, H Schmidli), 1.5 contact hours, April 2014, Webinar.
 * DSMBs DMCs (S Evans), 1.5 contact hours, September 2013, Webinar.
 * Practical Software Engineering for Statisticians (M Stokely), 4 contact hours, August 2013, Montreal Canada.
