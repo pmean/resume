@@ -1,5 +1,5 @@
 ---
-title: "Teaching approach/experience/philosophy"
+title: "Teaching philosophy"
 fontsize: 12
 output: pdf_document
 ---
