@@ -7,7 +7,8 @@ output: pdf_document
 ## Contact information
 
 * 14814 Granada Ct, Leawood, KS 66224
-* 913-814-9942
+* 913-814-9942 (home)
+* 913-912-2076 (cell)
 * mail@pmean.com
 
 ## Personal

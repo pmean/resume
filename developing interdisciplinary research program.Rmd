@@ -1,0 +1,7 @@
+---
+title: "Developing an interdisciplinary research program"
+fontsize: 12
+output: pdf_document
+---
+
+I believe in the Harry Truman quote "There's nothing that you can't accomplish if you don't care who gets the credit." Throughout my career, I have been helping others become successful researchers. This work is quiet, behind the scenes, and often leads to very little recognition for me. But I enjoy watching someone developed from a scared and timid person starting out with their very first research study to someone who has learned enough that now he/she is mentoring others.
