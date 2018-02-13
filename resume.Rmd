@@ -417,6 +417,8 @@ Note I am not listing local presentations or presentations where I am not the fi
 
 * Simon SD. "Cox Regression," a 90 minute webinar presented for The Analysis Factor, September 2016.
 
+* Simon SD. "Formal Programs Teaching Critical Appraisal in Evidence-Based Medicine," an invited 20 minute presentation for the Joint Statistical Meeting, Chicago, IL, August 2016.
+
 * Simon SD. "Introduction to Kaplan-Meier Curves," a 90 minute webinar presented for The Analysis Factor, April 2016.
 
 * Simon SD. "A Gentle Introduction to Bayesian Data Analysis," a 90 minute webinar presented for The Analysis Factor, June 2015.
