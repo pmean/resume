@@ -1,0 +1,24 @@
+---
+title: "Professional resume of Stephen D. Simon (addendum)"
+fontsize: 12pt
+output: pdf_document
+---
+
+```{r read-training-classes, echo=FALSE}
+gp <- "training"
+fn <- paste0("~/resume/data/", gp, "-list.txt")
+training <- readLines(fn)
+training <- gsub("^\\* ", "", training)
+n <- length(training)
+training <- paste("[", n:1, "] ", training, sep="")
+fn <- gsub("list", "header", fn)
+hd <- readLines(fn)
+fn <- gsub("header", "short", fn)
+sh <- readLines(fn)
+```
+
+`r hd`
+
+`r paste0(training, collapse="\n\n")`
+
+Note: This resume was created using RMarkdown and was printed on `r format(Sys.Date(), "%A, %B %d, %Y")`. With RMarkdown, you lose some of the fancy formatting available in other programs, but the layout is clean and simple and (most importantly) easy to maintain. You can find the most current version at http://github.com/pmean/resume.
