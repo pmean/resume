@@ -36,9 +36,6 @@ source("~/resume/src/organize-lists.R")
 
 `r read_list("classes")`
 
-This is a full resume with complete lists of grants, publications, etc. Some of the lists are very long. You can view an abbreviated resume at my github site:
+Note: This resume was created using RMarkdown and was printed on `r format(Sys.Date(), "%A, %B %d, %Y")`. With RMarkdown, you lose some of the fancy formatting available in other programs, but the layout is clean and simple and (most importantly) easy to maintain. This is a full resume with complete lists of grants, publications, etc. Some of the lists are very long. You can view an abbreviated resume at
 
-https://github.com/pmean/resume
-
-
-Note: This resume was created using RMarkdown and was printed on `r format(Sys.Date(), "%A, %B %d, %Y")`. With RMarkdown, you lose some of the fancy formatting available in other programs, but the layout is clean and simple and (most importantly) easy to maintain. You can find the most current version at http://github.com/pmean/resume.
+https://github.com/pmean/resume/blob/master/results/resume.pdf
