@@ -1,0 +1,21 @@
+* Honorable mention in the R programming contest sponsored by Revolution Analytics, for R functions to predict the completion date for a prospective clinical trial, May 2014.
+
+* Co-author of a research presentation (Nopper A, Wright T, Tee R, Horii K, Simon S, Popovic J, Alon U. Bone Density in Children With Hemangiomas Treated With Systemic Glucocorticoids) which received the ISSVA "R Schobinger Award" for best clinical paper presented during the 16th International Workshop on Vascular Anomalies, June 2006, Milano, Italy.
+
+* Co-author of a research paper (Miller-Hansen DR, Nelson PB, Widen JE, Simon SD. Am J Audiology 2003;24(1);16-18) which received the Editor's Award for the American Journal of Audiology for the most outstanding publication in the calendar year 2003.
+
+* Co-inventor on U.S. Patent, A System and Method for Monitoring and Analyzing Data Trends of Interest Within an Organization, filed December 2000, and sold to Cerner Corporation, February 2008.
+
+* Co-author of a research paper (Moorman WJ, Skaggs SR, Clark JC, Turner TW, Sharpnack DD, Murrell JA, Simon SD, Chapin RE, Schrader SM [1998]. Male reproductive effects of lead, including species extrapolation for the rabbit model. Reproductive Toxicology 12(3): 333-46.) which was the winner of the Alice Hamilton Award for 1999 for the best research paper in occupational safety and health (Biological Sciences Category).
+
+* My presentation, "Medical Statistics Case Studies on the Web," was voted as the best presentation in the area of Teaching Statistics in the Health Sciences at the Joint Statistical Meetings in Anaheim CA, August 1997.
+
+* Received Public Health Service Commendation Medal in July 1994 for my oversight of a laboratory modernization effort that included the use of a client-server data base system, remote monitoring of laboratory systems, automation of chemical workups using laboratory robotics, laptop systems for data collection in the field, and real-time data collection interfaces for Liquid and Gas Chromatography instruments.
+
+* Co-author of a research paper (Stettler LE, Platek SF, Riley RD, Mastin JP, Simon SD [1991]. Lung particulate burdens of subjects from Cincinnati, Ohio urban area. Scanning Microscopy 5(1):85-94) which was a finalist for the Alice Hamilton Award for 1992 for the best research paper in occupational safety and health.
+
+* Co-author of a research paper (Schrader SM, Turner TW, Simon SD [1990]. Longitudinal Study of Semen Quality of Unexposed Workers: II. Sources of Variation of Sperm Head Morphometry. Journal of Andrology 11(1):32-39) which was the winner of the Alice Hamilton Award for 1991 for the best research paper in occupational safety and health. This paper was nominated by NIOSH for the Charles C. Shepard Science Award for best scientific research paper in CDC.
+
+* Received Public Health Service Achievement Medal in April 1990 for producing cost savings and greater operational efficiency through the use of micro-computer analysis of statistical data.
+
+* Co-author of a research paper (Schrader SM, Turner TW, Breitenstein MJ, Simon SD [1988]. Longitudinal Study of Semen Quality of Unexposed Workers. I. Study Overview. Reproductive Toxicology 2:183-190) which was the winner of the Alice Hamilton Award for 1990 for the best research paper in occupational safety and health.

@@ -1,0 +1,79 @@
+* Applied Stochastic Models and Data Analysis conference, June 2017, London, England.
+* Midwest Bioinformatics Conference, April 2017, Kansas City, MO.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2017, Kansas City, MO.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2016, Kansas City, MO.
+* Midwest Bioinformatics Conference, October 2015, Kansas City, MO.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2015, Kansas City, MO.
+* Conference on Statistical Practice, February 2015, New Orleans, LA.
+* Joint Statistical Meetings, August 2014, Boston, MA.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2014, Kansas City, MO.
+* Joint Statistical Meetings, August 2013, Montreal, Canada.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2013, Kansas City, MO.
+* KC Bioresearch Summit, November 2012, Overland Park, KS.
+* Joint Statistical Meetings, August 2012, San Diego, CA.
+* Frontiers/KCALSI Research Symposium, May 2012, Kansas City, MO.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2012, Kansas City, MO.
+* Conference on Statistical Practice, February 2012, Orlando, FL.
+* Fall Technical Conference, October 2011, Kansas City, MO.
+* Joint Statistical Meetings, August 2011, Miami Beach, FL.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2011, Kansas City, MO.
+* Joint Statistical Meetings, August 2010, Vancouver, Canada.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2010, Kansas City, MO.
+* Joint Statistical Meetings, August 2009, Washington, DC.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2009, Kansas City, MO.
+* Bayesian Biostatistics Conference, January 2009, Houston, TX.
+* Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods, April 2008, Kansas City, MO.
+* Joint Statistical Meetings, August 2007, Salt Lake City, UT.
+* Joint Statistical Meetings, August 2006, Seattle, WA.
+* Applied Statistics in Agriculture, April 2006, Manhattan, KS.
+* Kansas City Life Sciences Research Day, April 2006, Kansas City, MO.
+* Joint Statistical Meetings, August 2005, Minneapolis, MN.
+* Kansas City Life Sciences Research Day, April 2005, Overland Park, KS.
+* Joint Statistical Meetings, August 2004, Toronto, CA.
+* Bridging the Gap Between Eastern & Western Medicine, January 2004, Kansas City, MO.
+* Joint Statistics Meetings, August 2003, San Francisco, CA.
+* ENAR Biometric Society Meeting, March 2003, Tampa FL.
+* Kansas City Life Sciences Research Day, March 2003, Kansas City, MO.
+* A Higher Standard: The Ethics of Clinical Research, September 2002, Kansas City, MO.
+* Clinical Research Symposium: Focus on Pediatric Pain, September 2002, Kansas City, MO.
+* Joint Statistical Meetings, August 2002, New York NY.
+* Joint Statistical Meetings, August 2001, Atlanta GA.
+* Joint Statistical Meetings, August 2000, Indianapolis IN.
+* Clinical Research Symposium, June 2000, Kansas City MO.
+* NIH Regional Seminar on Program Funding and Grants Administration, June 2000, Kansas City MO
+* Conference on Applied Statistics in Agriculture, May 2000, Manhattan KS
+* The 7th National Research Utilization Conference: Evidence-Based Interventions for Symptom Management, April 2000, Iowa City IA
+* Toastmasters District 22 Spring Conference, April 2000, Kansas City MO
+* Joint Statistical Meetings, August 1999, Baltimore MD
+* NIH Regional Seminar on Grants Administration, July 1999, Madison WI
+* Clinical Research Symposium, June 1999, Kansas City, MO
+* Research Involving Infants, Children, and Adolescents: Issues and Ethics for the 21st Century, April 1999, Kansas City MO
+* The Elements of Clinical Research: An Overview, October 1998, Kansas City, MO
+* Joint Statistical Meetings, August 1998, Dallas TX
+* Global Statistical Challenges and Strategies in the Pharmaceutical Industry, March 1998, Hilton Head SC
+* Joint Statistical Meetings, August 1997, Anaheim CA
+* Fourth International Applied Statistics in Industry conference, June 1997, Kansas City MO
+* Clinical Research Symposium, June 1998, Kansas City, MO
+* Eastern North America Region Biometric Society Meeting, March 1997, Memphis TN
+* SAS Users Group International Conference, March 1997, San Diego CA
+* Joint Statistical Meetings, August 1996, Chicago IL
+* Midwest SAS Users Group Meeting, October 1995, Cleveland OH
+* Ohio Statistics Conference, November 1994, Oxford OH
+* Total Quality Management in Government Conference, September 1994, Cincinnati OH
+* Joint Statistical Meetings, August 1994, Toronto, Ontario
+* Midwest SAS Users Group Conference, August 1993, Indianapolis IN
+* Deming Users Group Conference, August 1993, Cincinnati OH
+* Statistical Methods for Multi-Source Data, January 1993, Atlanta GA
+* Midwest SAS Users Group Conference, October 1992, Kansas City MO
+* Joint Statistical Meetings, August 1992, Atlanta GA
+* U.S. Public Health Service Professional Meeting, April 1992, Cincinnati OH
+* Eastern North America Region Biometric Society Meeting, March 1992, Cincinnati OH
+* Statistics and Quality Conference, October 1991, Lexington OH
+* State Based Occupational Health and Safety Activities, September 1991, Cincinnati OH
+* Joint Statistical Meetings, August 1990, Anaheim CA
+* SAS Users Group International Conference, April 1990, Nashville TN
+* Total Quality Management in Government Conference, March 1990, Cincinnati OH
+* SAS Users Group International Conference, April 1989, San Francisco CA
+* Winter Meeting of the American Statistical Association, January 1988, San Antonio TX
+* MINITAB Users Group meeting, January 1987, Orlando FL
+* Interface between Computer Science and Statistics, March 1985, Lexington KY
