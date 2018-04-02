@@ -1,19 +1,20 @@
-read_list <- function(gp, number_flag=TRUE) {
+read_list <- function(gp, number_flag=TRUE, sp="\n\n", k=999) {
+  fn <- paste0("~/resume/data/", gp, "-header.txt")
+  hd <- readLines(fn)
   fn <- paste0("~/resume/data/", gp, "-list.txt")
   ls <- readLines(fn)
   ls <- grep("^\\* ", ls, value=TRUE)
+  n <- length(ls)
   if (number_flag) {
-    n <- length(ls)
     ls <- gsub("^\\* ", "", ls)
     ls <- paste("[", n:1, "] ", ls, sep="")
   }
-  paste0(ls, collapse="\n\n")
-}
-
-read_header <- function(gp) {
-  fn <- paste0("~/resume/data/", gp, "-header.txt")
-  paste0(readLines(fn), collapse="\n\n")
-}
+  if (k < n) {
+    warn <- paste(n-k, "additional", gp, "not shown.")
+    ls <- c(ls[1:k], warn)
+  }
+  paste0(c(hd, ls), collapse=sp)
+  }
 
 read_short <- function(gp) {
   fn <- paste0("~/resume/data/", gp, "-short.txt")

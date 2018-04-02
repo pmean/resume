@@ -16,28 +16,29 @@ source("~/resume/src/organize-lists.R")
 
 `r read_list("experience", number_flag=FALSE)`
 
-`r read_list("grants", k=3)`
+`r read_list("grants")`
 
-`r read_list("awards", k=3)`
+`r read_list("awards")`
 
-`r read_list("committees", k=3)`
+`r read_list("committees")`
 
 `r read_list("computer", number_flag=FALSE, sp="\n")`
 
-`r read_list("volunteer efforts", k=3)`
+`r read_list("volunteer efforts")`
 
 `r read_list("hobbies", number_flag=FALSE, sp="\n")`
 
-`r read_list("publications", k=5)`
+`r read_list("publications")`
 
-`r read_list("presentations", k=5)`
+`r read_list("presentations")`
 
-`r read_list("conferences", k=5)`
+`r read_list("conferences")`
 
-`r read_list("classes", k=5)`
+`r read_list("classes")`
 
-Some lists were abbreviated to keep the length of this resume reasonable. You can find a resume with the complete lists at
-my github site: https:github.com/pmean/resume
+This is a full resume with complete lists of grants, publications, etc. Some of the lists are very long. You can view an abbreviated resume at my github site:
+
+https://github.com/pmean/resume
 
 
 Note: This resume was created using RMarkdown and was printed on `r format(Sys.Date(), "%A, %B %d, %Y")`. With RMarkdown, you lose some of the fancy formatting available in other programs, but the layout is clean and simple and (most importantly) easy to maintain. You can find the most current version at http://github.com/pmean/resume.
