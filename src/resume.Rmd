@@ -39,3 +39,7 @@ source("~/resume/src/organize-lists.R")
 Note: This resume was created using RMarkdown and was printed on `r format(Sys.Date(), "%A, %B %d, %Y")`. With RMarkdown, you lose some of the fancy formatting available in other programs, but the layout is clean and simple and (most importantly) easy to maintain. Some lists were abbreviated to keep the length of this resume reasonable. You can find a resume with the complete lists at
 
 https://github.com/pmean/resume/blob/master/results/full-resume.pdf
+
+You can find the latest version of THIS resume at
+
+https://github.com/pmean/resume/blob/master/results/resume.pdf
