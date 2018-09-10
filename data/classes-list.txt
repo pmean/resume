@@ -1,3 +1,4 @@
+* Collaboration: Putting the pieces together (E Vance, H Smith), 2.5 contact hours, July 2018, webinar.
 * Network Analysis in Cross-sectional Data Using R (E Fried), 2 contact hours, December 2017, Webinar.
 * Databases in the tidyverse (B Baumer, N Horton), 1.5 contact hours, November 2017, Webinar.
 * Introduction to Clinical Trials (S May), 4 contact hours, October 2015.

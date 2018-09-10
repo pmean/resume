@@ -1,3 +1,9 @@
+* Simon SD. "Finding customers for your independent consulting practice," a 90 minute webinar presented for the Statistical Consulting Section of the American Statistical Association, November 2018.
+* Simon SD. "Survival analysis," a series of eight 2 hour webinars presented for The Analysis Factor, September-November 2018.
+* Simon SD. "Business essentials for starting an independent consulting practice," a 90 minute webinar presented for the Statistical Consulting Section of the American Statistical Association, August 2018.
+* Simon SD. "Survival analysis," a series of eight 2 hour webinars presented for The Analysis Factor, April-June 2018.
+* Simon SD. "Equivalence testing," a 90 minute webinar presented for The Analysis Factor, April 2018.
+* Simon SD. "Mining the electronic health record: How and why," a 30 minute presentation for the Innovations in Design, Analysis, and Dissemination: Frontiers in Biostatistical Methods Symposium, Kansas City, MO, April 2018.
 * Simon SD. "Good Computing Practices for Researchers," a 90 minute webinar presented for The Analysis Factor, November 2017.
 * Simon SD. "Simulating clinical trials," an invited 20 minute presentation for the Applied Stochastic Modeling and Data Analysis conference, London, England, June 2017.
 * Simon SD. "LASSO Regression," a 90 minute webinar presented for The Analysis Factor, November 2016.
