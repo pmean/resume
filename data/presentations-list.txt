@@ -1,3 +1,4 @@
+* Simon SD. "Survival analysis," 24 hours of webinar presentations spread across eight weeks presented for The Analysis Factor, April-June 2018. This will be repeated in September-November 2018.
 * Simon SD. "Tests of equivalence and non-inferiority," a 90 minute webinar presented for The Analysis Factor, April 2018.
 * Simon SD. "Mining the electronic health record. Why and how," a 30 minute presentation for the regional Frontiers in Biostatistics conference, Kansas City, MO, April 2018.
 * Simon SD. "Using transformations to improve your linear regression model," a 90 minute webinar presented for The Analysis Factor, March 2018.
