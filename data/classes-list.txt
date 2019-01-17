@@ -1,8 +1,11 @@
 * The Role of Informatics in Precision Medicine (Cambridge Innovation Institute), 1 contact hour, November 2018, Webinar.
-* Collabortation: Putting the Pieces Together (American Statistical Association), 1 contact hour, July 2018, Webinar.
+* Bayesian Dynamic Borrowing of Historical Data (N Best), 4 contact hours, September 2018, Washington, DC.
+* Artificial Intelligence in Drug Development (Q Tang), 4 contact hours, September 2018, Washington, DC.
+* Collaboration: Putting the pieces together (E Vance, H Smith), 2.5 contact hours, July 2018, webinar.
+* Data Visualization for Survey Research (E Mulrow, N du Toit), 4 contact hours, April 2018, Overland Park, KS.
 * Network Analysis in Cross-sectional Data Using R (E Fried), 2 contact hours, December 2017, Webinar.
 * Databases in the tidyverse (B Baumer, N Horton), 1.5 contact hours, November 2017, Webinar.
-* Introduction to Clinical Trials (S May), 4 contact hours, October 2015.
+* Introduction to Clinical Trials (S May), 4 contact hours, October 2015, Kansas City, MO.
 * Nonparametric Bayesian Data Analysis, 8 contact hours, August 2014, Boston, MA.
 * Use of Historical Data in Designed Experiments (B Neuenschwander, H Schmidli), 1.5 contact hours, April 2014, Webinar.
 * DSMBs/DMCs (S Evans), 1.5 contact hours, September 2013, Webinar.
