@@ -1,6 +1,8 @@
 * Simon SD. Centers for Disease Control and Prevention. In Encyclopedia of Big Data. Schintler LA, McNeely CL (eds.). In press.
 * Simon SD. Census Bureau (U.S.). In Encyclopedia of Big Data. Schintler LA, McNeely CL (eds.). In press.
 * Berkley-Patton J, Bowe Thompson C, Goggin K, Catley D, Berman M, Bradley-Ewing A, Derose K, Resnicow K, Allsworth J, & Simon S. (accepted). A religiously-tailored, multilevel intervention in African American churches to increase HIV testing rates: rationale and design of the Taking It to the Pews cluster randomized trial. Contemporary Clinical Trials.
+* Simon SD. Getting Paid: How to Determine Your Fee. Amstat News. 2017 (August 1). This article was not peer-reviewed.
+* Simon SD. Why Be an Independent Consultant? Amstat News. 2017 (April 1). This article was not peer-reviewed.
 * Barker JP, Simon SD, Dubin J. The Methodology of Clinical Studies Used by the FDA for Approval of High-Risk Orthopaedic Devices. The Journal of Bone and Joint Surgery. American Volume. 2017; 99(9):711-719. PMID: 28463914
 * Parthiban A, Levine JC, Nathan M, Marshall JA, Shirali GS, Simon SD, Colan SD, Newburger JW, Raghuveer G. Implementation of a Quality Improvement Bundle Improves Echocardiographic Imaging after Congenital Heart Surgery in Children. Journal of the American Society of Echocardiography : official publication of the American Society of Echocardiography. 2016; 29(12):1163-1170.e3. PMID: 27742240
 * Jiang Y, Guarino P, Ma S, Simon S, Mayo MS, Raghavan R, Gajewski BJ. Bayesian accrual prediction for interim review of clinical studies: open source R package and smartphone application. Trials. 2016; 17(1):336. PMID: 27449769, PMCID: PMC4957321
