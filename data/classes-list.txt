@@ -1,3 +1,8 @@
+* Geospatial Analysis Using SAS Software, 2 contact hours, August 2019.
+* Bootstrap Learning Python with R, 8 contact hours, July 2019.
+* Data Visualization: Principles and Applicationsin R, Tableau, and Python (S Begren, T Iverson), 4 contact hours, May 2019.
+* Introduction to Deep Learning (K Kuo, J Luraschi), 4 contact hours, May 2019.
+* Winning Federal Research Grants: SBIR/STTR Workshop, 2 contact hours, January 2019.
 * The Role of Informatics in Precision Medicine (Cambridge Innovation Institute), 1 contact hour, November 2018, Webinar.
 * Bayesian Dynamic Borrowing of Historical Data (N Best), 4 contact hours, September 2018, Washington, DC.
 * Artificial Intelligence in Drug Development (Q Tang), 4 contact hours, September 2018, Washington, DC.
