@@ -5,7 +5,7 @@ output: pdf_document
 ---
 
 ```{r read-functions, echo=FALSE}
-source("~/resume/src/organize-lists.R")
+source("organize-lists.R")
 ```
 
 `r read_list("contact", number_flag=FALSE, sp="\n")`
