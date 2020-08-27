@@ -1,7 +1,7 @@
 read_list <- function(gp, number_flag=TRUE, sp="\n\n", k=999) {
-  fn <- paste0("~/resume/data/", gp, "-header.txt")
+  fn <- paste0("../data/", gp, "-header.txt")
   hd <- readLines(fn)
-  fn <- paste0("~/resume/data/", gp, "-list.txt")
+  fn <- paste0("../data/", gp, "-list.txt")
   ls <- readLines(fn)
   ls <- grep("^\\* ", ls, value=TRUE)
   n <- length(ls)
@@ -17,6 +17,6 @@ read_list <- function(gp, number_flag=TRUE, sp="\n\n", k=999) {
   }
 
 read_short <- function(gp) {
-  fn <- paste0("~/resume/data/", gp, "-short.txt")
+  fn <- paste0("../data/", gp, "-short.txt")
   readLines(fn)
 }
