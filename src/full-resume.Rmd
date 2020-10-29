@@ -16,6 +16,8 @@ source("organize-lists.R")
 
 `r read_list("experience", number_flag=FALSE)`
 
+`r read_list("teaching")`
+
 `r read_list("grants")`
 
 `r read_list("awards")`
