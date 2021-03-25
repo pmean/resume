@@ -1,12 +1,15 @@
-* Bibliographic software: EndNotes, Knowledge Finder, Zotero.
+* Bibliographic software: EndNotes, Knowledge Finder, Mendeley, Zotero.
+* Cloud storage: Box, Dropbox, iCloud, OneDrive.
 * Database software: Microsoft Access, Microsoft SQL Server, Oracle, PC-File, SQLite.
+* Electronic Health Records software: i2b2.
 * Graphics software: ACDSee, Metafile Companion, Photoshop Elements, SigmaPlot.
 * Internet systems: File Transfer Protocol, Gopher, Telnet, USENET, WordPress, World Wide Web.
 * Mathematical software: MathCAD, Mathematica, MathType.
+* Operating systems: Linux (Raspbian), MS-DOS, OS/2, Windows
 * Presentation software: Powerpoint.
-* Programming languages: BASIC, C, FORTRAN, Pascal, Perl, PL/1, Visual BASIC.
+* Programming languages: BASIC, C, C++, FORTRAN, Pascal, Perl, PL/1, Python, Visual BASIC.
 * Spreadsheets: Excel, Lotus 1-2-3, SuperCalc.
-* Statistical software: AMOS, BMDP, IMSL, JMP, LogXact, MINITAB, nQuery Advisor, OpenBUGS, R, RATS, S-Plus, S-Plus/Wavelets, SAS, Stan, SPIDA, SPSS, STATA, Statgraphics, StatXact, Systat, WinBUGS.
-* Utility software: DBMS/COPY, Norton Anti-virus, TextPad, WinZip.
-* Word processing: Word, Word Perfect.
+* Statistical software: AMOS, BMDP, IMSL, JMP, LogXact, MINITAB, nQuery Advisor, OpenBUGS, R (including RStudio and tidyverse), RATS, S-Plus, S-Plus/Wavelets, SAS (including SAS University), Stan, SPIDA, SPSS, STATA, Statgraphics, StatXact, Systat, WinBUGS.
+* Utility software: DBMS/COPY, Norton Anti-virus, Notepad++, TextPad, WinZip.
+* Word processing: LaTeX (MIKTeX), RMarkdown (including blogdown, bookdown, and pagedown), Word, Word Perfect.
 * Other experience: I have supervised the implementation of a Novell Local Area Network and Microsoft SQL Server, a client-server database, both for a division of 100+ employees. I have authored web pages using Adobe Acrobat, Adobe Dreamweaver, Camtasia Studio, and Microsoft Front Page. I have used and taught IBM mainframe Job Control Language, including tape and disk I/O.

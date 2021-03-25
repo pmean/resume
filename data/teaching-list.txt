@@ -1,3 +1,6 @@
+* MEDB 5505. Introduction to R, Spring 2021, 1 credit hour. 13 students.
+* MEDB 5508. Introduction to SQL, Spring 2021, 2 credit hours, co-taught with Suman Sahil. 4 students.
+* MEDB 5510. Clinical Research Methodology, Spring 2021, 3 credit hours, 2 sections, 21 students.
 * MEDB 5507. Introduction to SAS, Fall 2020, 1 credit hour. 7 students.
 * MEDB 5508. Introduction to SQL, Fall 2020, 2 credit hours, co-taught with Suman Sahil. 10 students.
 * MEDB 5507. Introduction to SAS, Summer 2020, 1 credit hour. 3 students.

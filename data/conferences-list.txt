@@ -1,4 +1,7 @@
-* Joint Statistical meetings, July 2019, Denver, CO.
+* Conference on Statistical Practice, February 2021, Virtual format.
+* Open Collaborative Experential Learning in Artificial Intelligence Summer Workshop, August 2020, Virtual format.
+* Joint Statistical Meetings, August 2020, Virtual format.
+* Joint Statistical Meetings, July 2019, Denver, CO.
 * Statistics and Data Science Symposium, May 2019, Bellevue, WA.
 * Midwest Statistical Machine Learning Colloquium, May 2019, Ames, IA.
 * Midwest Bioinformatics Conference, April 2019, Kansas City, MO.
