@@ -2,6 +2,9 @@
 title: "Professional resume of Stephen D. Simon"
 fontsize: 12pt
 output: pdf_document
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding,
+  output_dir = "../results", output_format = "all") })  
 ---
 
 ```{r read-functions, echo=FALSE}

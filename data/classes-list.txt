@@ -1,3 +1,19 @@
+* Academic Freedom v. Cancel Culture: A Dialogue on Free Speech, Censorship, and Responsible Decision-Making in Higher Education, 1 contact hour, March 2021.
+* The Beautiful Science of Data Visualization (AH Neville), 1 contact hour, March 2021.
+* Missing Data Methods for (Un)Commonly Used Statistics (E Latour, M Marino), 3 contact hours, February 2021. 
+* Principles of Prediction and Inference in Machine Learning (JD Blume, TG Stewart), 3 contact hours, February 2021.
+* Causal Inference Using Stata: Estimating Treatment Effects with Observational Data
+(J Luedicke), 2 contact hours, February 2021.
+* Bayesian Methods and the Statistics and Data Science Curriculum, 1 contact hour, February 2021.
+* Strengths Finder: Using Our Talents to Grow (C Nikel), 1 contact hour, February 2021.
+* Microaggressions in Life and Medicine, 1 contact hour, January 2021.
+* Computing in the Statistics and Data Science Curriculum, 1 contact hour, January 2021.
+* Transmission Dynamics of SARS-CoV-2: Inference and Projection, 1 contact hour, January 2021.
+* Empowering Statistician with Spark, Machine Learning and Deep Learning (H Lin, M Li), 6 contact hours, October 2020.
+* SARS-COV-2 Vaccine Trials (K Viele), 1 contact hour, October 2020.
+* Confusing Statistical Terms (K Grace-Martin), 1.5 contact hours, September 2020.
+* Data Analytics and How They are Used in Baseball (D Mack), 1 contact hour, September 2020.
+* ASA Consulting Section Unconference, 1.5 contact hours, September 2019.
 * Geospatial Analysis Using SAS Software, 2 contact hours, August 2019.
 * Bootstrap Learning Python with R, 8 contact hours, July 2019.
 * Data Visualization: Principles and Applicationsin R, Tableau, and Python (S Begren, T Iverson), 4 contact hours, May 2019.
