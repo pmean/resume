@@ -1,4 +1,4 @@
-* Simon SD. "Ebenezer Scrooge, Data Scientist," a poster presentation for the UMKC Faculty Research Symposium, Apri 2019.
+* Simon SD. "Ebenezer Scrooge, Data Scientist," a poster presentation for the UMKC Faculty Research Symposium, April 2019.
 * Simon SD. "Mining the Electronic Health Record," a 10 minute presentation for the Midwest Bioinformatics Symposium, April 2019.
 * Simon SD. "What's the best statistical package," a 90 minute webinar presented for The Analysis Factor, February 2018.
 * Simon SD. "Design and analysis of a meta-analysis," a 90 minute webinar presented for The Analysis Factor, November 2018.
