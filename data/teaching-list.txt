@@ -1,29 +1,44 @@
 * MEDB 5505. Introduction to R, Spring 2021, 1 credit hour. 13 students.
 * MEDB 5508. Introduction to SQL, Spring 2021, 2 credit hours, co-taught with Suman Sahil. 4 students.
 * MEDB 5510. Clinical Research Methodology, Spring 2021, 3 credit hours, 2 sections, 21 students.
+
 * MEDB 5507. Introduction to SAS, Fall 2020, 1 credit hour. 7 students.
 * MEDB 5508. Introduction to SQL, Fall 2020, 2 credit hours, co-taught with Suman Sahil. 10 students.
+
 * MEDB 5507. Introduction to SAS, Summer 2020, 1 credit hour. 3 students.
 * MEDB 5508. Introduction to SQL, Summer 2020, 2 credit hours, co-taught with Suman Sahil. 3 students.
+
 * MEDB 5505. Introduction to R, Spring 2020, 1 credit hour. 3 students.
 * MEDB 5508. Introduction to SQL, Spring 2020, 2 credit hours, co-taught with Suman Sahil. 4 students.
 * MEDB 5510. Clinical Research Methodology, Spring 2020, 3 credit hours, 14 students.
+
 * MEDB 5507. Introduction to SAS, Fall 2019, 1 credit hour. 9 students.
 * MEDB 5508. Introduction to SQL, Fall 2019, 2 credit hours, co-taught with Suman Sahil. 12 students.
+
 * MEDB 5507. Introduction to SAS, Summer 2019, 1 credit hour. 4 students.
+
 * MEDB 5510. Clinical Research Methodology, Spring 2019, 3 credit hours, 17 students.
+
 * MEDB 5507. Introduction to SAS, Fall 2018, 1 credit hour. 1 student.
+
 * MEDB 5505. Introduction to R, Spring 2018, 1 credit hour. 5 students.
 * MEDB 5507. Introduction to SAS, Spring 2018, 1 credit hour. 3 students.
+
 * MEDB 5505. Introduction to R, Fall 2017, 1 credit hour. 10 students.
 * MEDB 5506. Introduction to SPSS, Fall 2017, 1 credit hour. 3 students.
+
 * MEDB 5505. Introduction to R, Summer 2017, 1 credit hour. 10 students.
 * MEDB 5506. Introduction to SPSS, Summer 2017, 1 credit hour. 3 students.
+
 * MEDB 5505. Introduction to R, Spring 2017, 1 credit hour. 1 student.
+
 * MEDB 5505. Introduction to R, Fall 2016, 1 credit hour. 4 students.
 * MEDB 5507. Introduction to SAS, Fall 2016, 1 credit hour, co-taught with Mary Gerkovich. 3 students.
+
 * MEDB 5530. Independent study, Summer 2016, 1 credit hour. 2 students.
+
 * MEDB 5506. Introduction to SPSS, Spring 2016, 1 credit hour, co-taught with Karen Williams. 3 students.
+
 * MEDB 5505. Introduction to R, Fall 2015, 1 credit hour, co-taught with Mary Gerkovich. 7 students.
 
 
