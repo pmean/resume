@@ -3,7 +3,9 @@ read_list <- function(gp, number_flag=TRUE, sp="\n\n", k=999) {
   hd <- readLines(fn)
   fn <- paste0("../data/", gp, "-list.txt")
   ls <- readLines(fn)
-  ls <- grep("^\\* ", ls, value=TRUE)
+  if (number_flag) {
+    ls <- grep("^\\* ", ls, value=TRUE)
+  }
   n <- length(ls)
   if (number_flag) {
     ls <- gsub("^\\* ", "", ls)
