@@ -19,7 +19,7 @@ source("organize-lists.R")
 
 `r read_list("experience", number_flag=FALSE)`
 
-`r read_list("teaching")`
+`r read_list("teaching", number_flag=FALSE, sp="\n\n")`
 
 `r read_list("grants")`
 
