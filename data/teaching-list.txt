@@ -8,7 +8,6 @@
   * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil. 0 students, as of 2021-06-03.
 
 * Summer 2021 (tentative)
-  * MEDB 5505. Introduction to R, 1 credit hour. 2 students, as of 2021-06-03.
   * MEDB 5507. Introduction to SAS, 1 credit hour. 4 students, as of 2021-06-03.
   * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil. 5 students, as of 2021-06-03.
 
@@ -70,5 +69,3 @@
 
 * Fall 2015
   * MEDB 5505. Introduction to R, 1 credit hour, co-taught with Mary Gerkovich. 7 students.
-
-

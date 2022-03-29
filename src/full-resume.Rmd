@@ -19,7 +19,7 @@ source("organize-lists.R")
 
 `r read_list("experience", number_flag=FALSE)`
 
-`r read_list("teaching", number_flag=FALSE, sp="\n\n")`
+<!---`r read_list("teaching", number_flag=FALSE, sp="\n\n")`--->
 
 `r read_list("grants")`
 
@@ -37,9 +37,9 @@ source("organize-lists.R")
 
 `r read_list("presentations")`
 
-`r read_list("conferences")`
+<!---`r read_list("conferences")`--->
 
-`r read_list("classes")`
+<!---`r read_list("classes")`--->
 
 Note: This resume was created using RMarkdown and was printed on `r format(Sys.Date(), "%A, %B %d, %Y")`. With RMarkdown, you lose some of the fancy formatting available in other programs, but the layout is clean and simple and (most importantly) easy to maintain. This is a full resume with complete lists of grants, publications, etc. Some of the lists are very long. You can view an abbreviated resume at
 
