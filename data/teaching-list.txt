@@ -1,15 +1,25 @@
-* Spring 2022 (tentative)
-  * MEDB 5507. Introduction to SAS, 1 credit hour.
-  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil.
-  * MEDB 5510. Clinical Research Methodology, 3 credit hours.
+* Fall 2022
+  * MEDB 5507. Introduction to SAS, 1 credit hour. 4 students, as of 2022-08-01.
+  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil. 4 students, as of 2022-08-01.
 
-* Fall 2021 (tentative)
-  * MEDB 5507. Introduction to SAS, 1 credit hour. 3 students, as of 2021-06-03.
-  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil. 0 students, as of 2021-06-03.
+* Summer 2022
+  * MEDB 5507. Introduction to SAS, 1 credit hour. 6 students.
+  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil. 6 students.
 
-* Summer 2021 (tentative)
-  * MEDB 5507. Introduction to SAS, 1 credit hour. 4 students, as of 2021-06-03.
-  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil. 5 students, as of 2021-06-03.
+* Spring 2022
+  * MEDB 5505. Introduction to R, 1 credit hour. 6 students.
+  * MEDB 5510. Clinical Research Methodology, 3 credit hours. 37 students.
+  * MEDB 5599. Research and Thesis, 3 credit hours. 1 student.
+
+* Fall 2021
+  * MEDB 5507. Introduction to SAS, 1 credit hour. 16 students.
+  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil. 14 students.
+  * MEDB 5599. Research and Thesis, 3 credit hours. 1 student.
+  * SOC-SCI 5690. Special Doctoral Reading, 1 credit hour. 1 student
+
+* Summer 2021
+  * MEDB 5507. Introduction to SAS, 1 credit hour. 4 students.
+  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil. 6 students.
 
 * Spring 2021
   * MEDB 5505. Introduction to R, 1 credit hour. 13 students.
