@@ -1,15 +1,43 @@
-* Spring 2022 (tentative)
-  * MEDB 5507. Introduction to SAS, 1 credit hour.
-  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil.
-  * MEDB 5510. Clinical Research Methodology, 3 credit hours.
+* Dissertation committees
+  * Hadeel AlQadi (successful defense, March 2022)
+  * Kyle Reed
+  
+* Thesis committees
+  * Mohamed Ahmed (chair)
+  * Suban Burale (successful defense, July 2022)
+  * Abdelmoneim Elfagir (successful defense, March 2022)
+  * Satya Golla (chair)
+  * Justin Mpanga (successful defense, July 2022)
 
-* Fall 2021 (tentative)
-  * MEDB 5507. Introduction to SAS, 1 credit hour. 3 students, as of 2021-06-03.
-  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil. 0 students, as of 2021-06-03.
+Capstone committees
+  * Kari Jessip (successful defense, May 2021)
+  * Laith Numan (chair)
 
-* Summer 2021 (tentative)
-  * MEDB 5507. Introduction to SAS, 1 credit hour. 4 students, as of 2021-06-03.
-  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil. 5 students, as of 2021-06-03.
+* Fall 2022
+  * MEDB 5507. Introduction to SAS, 1 credit hour, 11 students.
+  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil, 8 students.
+  * MEDB 5595. Capstone Experience, 3 credit hours, 1 student.
+  * MEDB 5599. Research and Thesis, 3 credit hours, 2 students.
+
+* Summer 2022
+  * MEDB 5507. Introduction to SAS, 1 credit hour, 6 students.
+  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil, 6 students.
+
+* Spring 2022
+  * MEDB 5505. Introduction to R, 1 credit hour, 6 students.
+  * MEDB 5510. Clinical Research Methodology, 3 credit hours, 37 students.
+  * MEDB 5599. Research and Thesis, 3 credit hours, 1 student.
+
+* Fall 2021
+  * MEDB 5507. Introduction to SAS, 1 credit hour. 16 students.
+  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil. 14 students.
+  * MEDB 5530. Independent Study, 2 credit hours, 1 student.
+  * MEDB 5599. Research and Thesis, 3 credit hours, 1 student.
+  * SCO-SCI 5690. Spec. Doct. Reading, 3 credit hours, 1 student.
+
+* Summer 2021
+  * MEDB 5507. Introduction to SAS, 1 credit hour. 4 students.
+  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil. 6 students.
 
 * Spring 2021
   * MEDB 5505. Introduction to R, 1 credit hour. 13 students.
