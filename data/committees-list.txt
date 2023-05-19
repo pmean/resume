@@ -1,3 +1,11 @@
+* Judge, Health Sciences Student Research Summit, March 2023. I was assigned four posters to review for the Health Sciences Student Research Summit, a conference to highlight research done by local students.
+
+* Member, Non-tenure-track, non-physician promotion committee (April 2023 to present). This group reviews promotion applications to Associate and Full Professor for non-tenure-track, non-physician faculty in the School of Medicine. This includes faculty with joint appointments at various allied hospitals.
+
+* Member, Leadership book club (July 2022 to present). This group of faculty in the UMKC School of Medicine meets monthly to discuss books relevant to our work.
+
+* Member, Research oversight, School of Medicine, St. Joseph Campus (November 2022 to present). This is an informal working group, headed by Kathleen Spears, to advise medical students at the St. Joseph Campus on various research projects.
+
 * President of the Kansas City R Users Group (January 2014 to present). This group meets monthly to share information and experiences with the R programming language. When I took over, the group was threatening to fold because meetings had as few as three or four people attending. I converted the group's publicity from a proprietary email notification system to meetup.com, changed the format of the meetings to alternate between beginner and advanced sessions, found an alternate meeting site with better seating and audiovisual equipment, and recruited new speakers for the meetings. The group has increased its membership and now has 10 to 20 attendees at most meetings.
 
 * Co-organizer (with M Gerkovich) of Secondary Data Analysis working group (January 2014 through June 2015). This group meets monthly and members take turns sharing information about interesting data sources they have used. In the fall semester of 2015, this group was folded in with the graduate student seminar.
