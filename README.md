@@ -3,16 +3,18 @@
 This is a single file stand-alone application using R Markdown to create
 a reasonably clean and simple version of my resume.
 
-It was run and tested using RStudio and the knitr package.
+There are two versions:
 
-This application does not need any special files beyond the ones listed
-above.
++ a [short resume][sim3] which only lists the most recent activities, and
++ a [longer resume][sim4] which lists everything back to my college days.
 
-If you just want to look at my resume, please go to 
+I also have included a [recent biosketch][sim5]. This has a specialized format and is produced using Microsoft Word.
 
-https://github.com/pmean/resume/blob/master/results/resume.pdf
+If you are unfamiliar with github, it cannot easily display binary files like pdf and Word. You need to find and click on the download button on the right hand side of these pages.
 
-or
+Notice to headhunters: I appreciate and am flattered by your attention, but please don't waste your time here. I am not actively looking for new employment. I post my resume here mostly to help out my various research collaborators.
 
-https://github.com/pmean/resume/blob/master/results/full-resume.pdf
+[sim3]: https://github.com/pmean/resume/blob/master/results/resume.pdf
+[sim4]: https://github.com/pmean/resume/blob/master/results/full-resume.pdf
+[sim5]: https://github.com/pmean/resume/blob/master/results/biosketch.docx
 
