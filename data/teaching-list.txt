@@ -3,21 +3,76 @@
   * Kyle Reed
   
 * Thesis committees
-  * Mohamed Ahmed (chair)
+  * Emma Kaz Frick (tentative defense, May 2025)
+  * Reagan Todd (tentative defense, May 2025)
+  * Madhumitha Mahankali (successful defense, May 2024)
+  * Mounika Jakkidi (successful defense, May 2023)
   * Suban Burale (successful defense, July 2022)
-  * Abdelmoneim Elfagir (successful defense, March 2022)
-  * Satya Golla (chair)
   * Justin Mpanga (successful defense, July 2022)
+  * Abdelmoneim Elfagir (successful defense, March 2022)
+  * Satya Golla (chair, switched to no thesis track)
+  * Mohammed Ahmed (no details found yet on defense)
 
 Capstone committees
+  * Hideko Engel (successful defense, May 2023)
   * Kari Jessip (successful defense, May 2021)
   * Laith Numan (chair)
+  
+* Fall 2025, classes co-taught with Suman Sahil
+  * MEDB 5501, Applied Biostatistics I, 3 credit hours (no enrollment yet)
+  * MEDB 5507, Introduction to SAS, 1 credit hour (no enrollment yet)
+  
+* Summer 2025, classes co-taught with Suman Sahil
+  * MEDB 5507, Introduction to SAS, 1 credit hour (no enrollment yet)
+  * MEDB 5508, Introduction to SQL, 2 credit hours (no enrollment yet)
 
-* Fall 2022
+* Spring 2025, classes taught alone
+  * MEDB 5510, Clinical Research Methodology, 3 credit hours, 26 students
+  * MEDB 5530, Independent study, 2 credit hours, 1 student
+  * MEDB 5595, Research and Thesis, 3 credit hours, 2 students
+* Spring 2025, classes taught with Suman Sahil
+  * MEDB 5502, Applied Biostatistics II, 3 credit hours, 28 students
+  * MEDB 5505, Introduction to R, 1 credit hour, 7 students
+  
+* Fall 2024, classes taught alone
+  * MEDB 5507, Introduction to SAS, 1 credit hour, 9 students
+  * MEDB 5599, Research and Thesis, 3 credit hours, 2 students
+* Fall 2024, classes co-taught with Suman Sahil
+  * MEDB 5501, Applied Biostatistics I, 3 credit hours, 46 students
+
+* Summer 2024, classes taught alone
+  * MEDB 5507, Introduction to SAS, 1 credit hour, 9 students
+* Summer 2024, classes taught with Suman Sahil
+  * MEDB 5508, Introduction to SQL, 2 credit hours, 11 students
+
+Spring 2024, classes taught alone
+  * MEDB 5502, Applied Biostatistics II, 3 credit hours, 18 students
+  * MEDB 5505, Introduction to R, 1 credit hour, 7 students
+  * MEDB 5510, Clinical Research Methodology, 3 credit hours, 33 students
+  * MEDB 5599, Research and Thesis, 3 credit hours, 1 student
+  
+Fall 2023, classes taught alone
+  * MEDB 5501, Applied Biostatistics I, 3 credit hours, 40 students
+  * MEDB 5507, Introduction to SAS, 1 credit hour, 3 students
+  * MEDB 5599, Research and Thesis, 3 credit hours, 1 student
+
+Summer 2023, classes taught alone
+  * MEDB 5507, Introduction to SAS, 1 credit hour, 10 students
+Summer 2023, classes co-taught with Suman Sahil
+  * MEDB 5508, Introduction to SQL, 2 credit hours, 8 students
+  
+Spring 2023, classes taught alone
+  * MEDB 5505, Introduction to R, 1 credit hour, 6 students
+  * MEDB 5510, Clinical Research Methodology, 3 credit hours, 19 students
+  * MEDB 5595, Capstone Experience, 3 credit hours, 1 student
+  * MEDB 5599, Research and Thesis, 3 credit hours, 1 student
+
+* Fall 2022, classes taught alone
   * MEDB 5507. Introduction to SAS, 1 credit hour, 11 students.
-  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil, 8 students.
   * MEDB 5595. Capstone Experience, 3 credit hours, 1 student.
   * MEDB 5599. Research and Thesis, 3 credit hours, 2 students.
+* Fall 2022, classes co-taught with Suman Sahil
+  * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil, 8 students.
 
 * Summer 2022
   * MEDB 5507. Introduction to SAS, 1 credit hour. 6 students.
@@ -60,6 +115,7 @@ Capstone committees
 * Fall 2019
   * MEDB 5507. Introduction to SAS, 1 credit hour. 9 students.
   * MEDB 5508. Introduction to SQL, 2 credit hours, co-taught with Suman Sahil. 12 students.
+  * MEDB 5530, Independent Study, 1 credit hour, 1 student
 
 * Summer 2019
   * MEDB 5507. Introduction to SAS, 1 credit hour. 4 students.
