@@ -12,7 +12,7 @@ I also have included a [recent biosketch][sim5]. This has a specialized format a
 
 If you are unfamiliar with github, it cannot easily display binary files like pdf and Word. You need to find and click on the download button on the right hand side of these pages.
 
-Notice to headhunters: I appreciate and am flattered by your attention, but please don't waste your time here. I am not actively looking for new employment. I post my resume here mostly to help out my various research collaborators.
+Notice to headhunters: I appreciate and am flattered by your attention, but please don't waste your time here. I am not looking for new employment and I will ignore any inquiries that you might send. I post my resume here mostly to help out my various research collaborators.
 
 [sim3]: https://github.com/pmean/resume/blob/master/results/resume.pdf
 [sim4]: https://github.com/pmean/resume/blob/master/results/full-resume.pdf

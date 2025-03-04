@@ -1,6 +1,13 @@
+* Simon SD. "What software, for what test, and why," session chair at the Conference on Statistical Practice, New Orleans LA, February 2024.
+* Simon SD. "Setting up an independent statistical consulting practice," a poster presentation at the Conference on Statistical Practice, New Orleans LA, February 2024.
+* Simon SD. "Power and sample size," a 90 minute guest lecture for the UMKC Clinical Trials class, February 2024.
 * Simon SD. "The exterior housing conditions survey. A simple, inexpensive, and non-intrusive approach to identify lead poisoning risks," a 15 minute presentation for the National Housing Performance Conference, Seattle WA, April 2023.
+* Simon SD. "What software, for what test, and why," session chair at the Joint Statistical Meetings, Toronto, Canada, August 2023.
+* Simon SD. "Clinical statistics for non-statisticians," a 9 hour webinar presented for Marcus Evans, Virtual format, June 2023, repeated December 2023 and March 2024.
+* Simon SD. "Exact and randomization tests," a 90 minute webinar presented for The Analysis Factor, Virtual format, June 2023.
 * Simon SD. "Power and sample size," a 90 minute guest lecture for the UMKC Clinical Trials class, February 2023.
 * Simon SD, Wilson N. "A summary of the Impact Lead-KC grant," a 30 minute presentation to the DBHI Graduate Research Seminar, September 2022.
+* Simon SD. "Effective Reporting of Statistical Results by Consultants and Collaborators," session chair at the Joint Statistical Meetings, Washington DC, August 2022.
 * Simon SD. "A Gentle Introduction to Bootstrapping," a 90 minute webinar presented for The Analysis Factor, Virtual format, August 2022.
 * Simon SD (chair). "What I Know Now that I Wish I Knew Before I Started a Career in Academic Consulting," a 90 minute panel discussion for the Joint Statistical Meetings, in Washington DC, August 2022.
 * Simon SD. "Analysis of Means," a 90 minute webinar presented for The Analysis Factor, Virtual format, April 2022.
