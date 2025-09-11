@@ -1,3 +1,5 @@
+* Faculty Researcher Award, School of Medicine, University of Missouri-Kansas City, October 2023.
+
 * Honorable mention in the R programming contest sponsored by Revolution Analytics, for R functions to predict the completion date for a prospective clinical trial, May 2014.
 
 * Co-author of a research presentation (Nopper A, Wright T, Tee R, Horii K, Simon S, Popovic J, Alon U. Bone Density in Children With Hemangiomas Treated With Systemic Glucocorticoids) which received the ISSVA "R Schobinger Award" for best clinical paper presented during the 16th International Workshop on Vascular Anomalies, June 2006, Milano, Italy.

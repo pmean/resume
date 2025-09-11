@@ -1,21 +1,22 @@
-* Dissertation committees
+* Dissertation committee member
   * Hadeel AlQadi (successful defense, March 2022)
-  * Kyle Reed
-  
-* Thesis committees
-  * Emma Kaz Frick (tentative defense, May 2025)
-  * Reagan Todd (tentative defense, May 2025)
-  * Madhumitha Mahankali (successful defense, May 2024)
-  * Mounika Reddy Jakkidi (successful defense, May 2023)
+
+* Thesis committe chair
+  * Mounika Reddy Jakkidi (successful defense, May 2023), https://mospace.umsystem.edu/xmlui/handle/10355/95759
+  * Emma Kaz Frick (successful defense, May 2025), https://mospace.umsystem.edu/xmlui/handle/10355/108801
+  * Madhumitha Mahankali (successful defense, May 2024), https://mospace.umsystem.edu/xmlui/handle/10355/101821
+  * Reagan Todd (successful defense, May 2025), https://mospace.umsystem.edu/xmlui/handle/10355/108785
+
+* Thesis committee member
+  * Mohammed Ahmed (no details found yet on defense)
   * Suban Burale (successful defense, July 2022)
   * Abdelmoneim Elfagir (successful defense, March 2022)
   * Justin Mpanga (successful defense, July 2022)
-  * Abdelmoneim Elfagir (successful defense, March 2022)
-  * Satya Golla (chair, switched to no thesis track)
-  * Mohammed Ahmed (no details found yet on defense)
 
-Capstone committees
+* Capstone committee chair
   * Hideko Engel (successful defense, May 2023)
+  
+* Capstone committee member
   * Kari Jessip (successful defense, May 2021)
   * Laith Numan (chair)
   
