@@ -20,6 +20,21 @@
   * Kari Jessip (successful defense, May 2021)
   * Laith Numan (chair)
   
+* Cross-check
+ [1] "Ahmed, Mohamed 2022-04"         "Alqadi, Hadeel 2019-11"        
+ [3] "Burale, Suban, 2021-08"         "Conner, Stephen 2023-08"       
+ [5] "Elfagir, Abdelmoneim 2021-05"   "Engel, Hideko 2023-01"         
+ [7] "Golla, Satya 2021-09"           "Hoefferle, Ryan 2024-03"       
+ [9] "Ilanda, Seibou 2022-08"         "Jakkidi, Mounika Reddy 2023-01"
+[11] "Jessip, Kari 2021-03"           "Kaz Frick, Emma 2024-04"       
+[13] "Kridan, Jamila 2020-10"         "Mahankali, Madhumitha 2023-08" 
+[15] "McCamy, Lisa 2024-10"           "Mohamed, Yahia 2021-09"        
+[17] "Mpanga, Justin 2022-04"         "Numan, Laith 2022-08"          
+[19] "Pacheco, Christina 2023-05"     "Puthawala, Emily 2024-11"      
+[21] "Reed, Kyle 2021-04"             "Saha, Barsha 2025-01"          
+[23] "Todd, Reagan, 2024-09"          "Tyrell, Maggie 2025-04"        
+[25] "Webb, Cassie 2024-09" 
+
 * Fall 2025, classes co-taught with Suman Sahil
   * MEDB 5501, Applied Biostatistics I, 3 credit hours (no enrollment yet)
   * MEDB 5507, Introduction to SAS, 1 credit hour (no enrollment yet)
